@@ -10,7 +10,8 @@ app = Dash(__name__)
 # assume you have a "long-form" data frame
 # see https://plotly.com/python/px-arguments/ for more options
 df = pd.read_csv("hoteles.csv")
-df = df.sort_values('puntaje', ascending=False)
+df = df.sort_values('puntaje', ascending=True)
+df = df.head(10)
 
 fig = px.bar(df, y="hotel", x="puntaje", color="puntaje",orientation='h')
 
