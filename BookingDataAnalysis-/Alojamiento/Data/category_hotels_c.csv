@@ -1,0 +1,612 @@
+provincia,categoria,score,hotel,puntaje
+Esmeraldas,Staff,9.1,La Facha Hostal Restaurant Surf,8.4
+Esmeraldas,Facilities,8.4,La Facha Hostal Restaurant Surf,8.4
+Esmeraldas,Cleanliness,8.5,La Facha Hostal Restaurant Surf,8.4
+Esmeraldas,Comfort,8.5,La Facha Hostal Restaurant Surf,8.4
+Esmeraldas,Value for money,8.6,La Facha Hostal Restaurant Surf,8.4
+Esmeraldas,Location,9.1,La Facha Hostal Restaurant Surf,8.4
+Esmeraldas,Free WiFi,7.5,La Facha Hostal Restaurant Surf,8.4
+Esmeraldas,Staff,9.4,"Hotel Casa Arnaldo ""Esmeraldas""",8.9
+Esmeraldas,Facilities,8.9,"Hotel Casa Arnaldo ""Esmeraldas""",8.9
+Esmeraldas,Cleanliness,9.2,"Hotel Casa Arnaldo ""Esmeraldas""",8.9
+Esmeraldas,Comfort,9.1,"Hotel Casa Arnaldo ""Esmeraldas""",8.9
+Esmeraldas,Value for money,8.6,"Hotel Casa Arnaldo ""Esmeraldas""",8.9
+Esmeraldas,Location,9.5,"Hotel Casa Arnaldo ""Esmeraldas""",8.9
+Esmeraldas,Free WiFi,7.9,"Hotel Casa Arnaldo ""Esmeraldas""",8.9
+Esmeraldas,Staff,9.2,Hotel la Barca,8.8
+Esmeraldas,Facilities,8.5,Hotel la Barca,8.8
+Esmeraldas,Cleanliness,8.9,Hotel la Barca,8.8
+Esmeraldas,Comfort,8.7,Hotel la Barca,8.8
+Esmeraldas,Value for money,8.6,Hotel la Barca,8.8
+Esmeraldas,Location,9.4,Hotel la Barca,8.8
+Esmeraldas,Free WiFi,8.5,Hotel la Barca,8.8
+Esmeraldas,Staff,9.0,Resort Playa Azul Departamentos frente al mar,9.3
+Esmeraldas,Facilities,9.2,Resort Playa Azul Departamentos frente al mar,9.3
+Esmeraldas,Cleanliness,9.3,Resort Playa Azul Departamentos frente al mar,9.3
+Esmeraldas,Comfort,9.3,Resort Playa Azul Departamentos frente al mar,9.3
+Esmeraldas,Value for money,8.9,Resort Playa Azul Departamentos frente al mar,9.3
+Esmeraldas,Location,9.4,Resort Playa Azul Departamentos frente al mar,9.3
+Esmeraldas,Free WiFi,7.9,Resort Playa Azul Departamentos frente al mar,9.3
+Esmeraldas,Staff,8.9,Escapaditas a la Playa,8.8
+Esmeraldas,Facilities,9.1,Escapaditas a la Playa,8.8
+Esmeraldas,Cleanliness,9.3,Escapaditas a la Playa,8.8
+Esmeraldas,Comfort,9.3,Escapaditas a la Playa,8.8
+Esmeraldas,Value for money,9.0,Escapaditas a la Playa,8.8
+Esmeraldas,Location,8.6,Escapaditas a la Playa,8.8
+Esmeraldas,Staff,8.7,Hotel Oceanic Lodge,8.5
+Esmeraldas,Facilities,8.7,Hotel Oceanic Lodge,8.5
+Esmeraldas,Cleanliness,8.8,Hotel Oceanic Lodge,8.5
+Esmeraldas,Comfort,9.0,Hotel Oceanic Lodge,8.5
+Esmeraldas,Value for money,8.2,Hotel Oceanic Lodge,8.5
+Esmeraldas,Location,7.9,Hotel Oceanic Lodge,8.5
+Esmeraldas,Free WiFi,7.5,Hotel Oceanic Lodge,8.5
+Esmeraldas,Staff,9.5,Seaside Garden Ecolodge Mompiche,9.0
+Esmeraldas,Facilities,8.8,Seaside Garden Ecolodge Mompiche,9.0
+Esmeraldas,Cleanliness,8.9,Seaside Garden Ecolodge Mompiche,9.0
+Esmeraldas,Comfort,9.2,Seaside Garden Ecolodge Mompiche,9.0
+Esmeraldas,Value for money,9.1,Seaside Garden Ecolodge Mompiche,9.0
+Esmeraldas,Location,8.9,Seaside Garden Ecolodge Mompiche,9.0
+Esmeraldas,Free WiFi,6.4,Seaside Garden Ecolodge Mompiche,9.0
+Esmeraldas,Staff,9.2,Hotel RC Tonsupa,8.6
+Esmeraldas,Facilities,8.6,Hotel RC Tonsupa,8.6
+Esmeraldas,Cleanliness,9.0,Hotel RC Tonsupa,8.6
+Esmeraldas,Comfort,8.8,Hotel RC Tonsupa,8.6
+Esmeraldas,Value for money,8.5,Hotel RC Tonsupa,8.6
+Esmeraldas,Location,7.9,Hotel RC Tonsupa,8.6
+Esmeraldas,Free WiFi,7.2,Hotel RC Tonsupa,8.6
+Esmeraldas,Staff,9.3,Departamento Frente al Mar Diamond Beach,9.4
+Esmeraldas,Facilities,9.4,Departamento Frente al Mar Diamond Beach,9.4
+Esmeraldas,Cleanliness,9.4,Departamento Frente al Mar Diamond Beach,9.4
+Esmeraldas,Comfort,9.5,Departamento Frente al Mar Diamond Beach,9.4
+Esmeraldas,Value for money,9.2,Departamento Frente al Mar Diamond Beach,9.4
+Esmeraldas,Location,9.8,Departamento Frente al Mar Diamond Beach,9.4
+Esmeraldas,Staff,8.7,Hotel Almond Beach,8.7
+Esmeraldas,Facilities,8.7,Hotel Almond Beach,8.7
+Esmeraldas,Cleanliness,8.9,Hotel Almond Beach,8.7
+Esmeraldas,Comfort,8.9,Hotel Almond Beach,8.7
+Esmeraldas,Value for money,8.5,Hotel Almond Beach,8.7
+Esmeraldas,Location,8.6,Hotel Almond Beach,8.7
+Esmeraldas,Free WiFi,7.5,Hotel Almond Beach,8.7
+Esmeraldas,Staff,9.2,Cabañas Ecologicas Cayapas,8.9
+Esmeraldas,Facilities,8.5,Cabañas Ecologicas Cayapas,8.9
+Esmeraldas,Cleanliness,8.9,Cabañas Ecologicas Cayapas,8.9
+Esmeraldas,Comfort,8.9,Cabañas Ecologicas Cayapas,8.9
+Esmeraldas,Value for money,8.7,Cabañas Ecologicas Cayapas,8.9
+Esmeraldas,Location,9.5,Cabañas Ecologicas Cayapas,8.9
+Esmeraldas,Free WiFi,8.2,Cabañas Ecologicas Cayapas,8.9
+Esmeraldas,Staff,8.8,Departamento 4 habitaciones 12 personas vista al mar 8vo piso Playa Almendro,7.5
+Esmeraldas,Facilities,7.9,Departamento 4 habitaciones 12 personas vista al mar 8vo piso Playa Almendro,7.5
+Esmeraldas,Cleanliness,8.7,Departamento 4 habitaciones 12 personas vista al mar 8vo piso Playa Almendro,7.5
+Esmeraldas,Comfort,8.4,Departamento 4 habitaciones 12 personas vista al mar 8vo piso Playa Almendro,7.5
+Esmeraldas,Value for money,7.3,Departamento 4 habitaciones 12 personas vista al mar 8vo piso Playa Almendro,7.5
+Esmeraldas,Location,8.6,Departamento 4 habitaciones 12 personas vista al mar 8vo piso Playa Almendro,7.5
+Esmeraldas,Staff,9.2,Resort Playa Azul Tonsupa Departamento de 2 Habitaciones,9.1
+Esmeraldas,Facilities,9.1,Resort Playa Azul Tonsupa Departamento de 2 Habitaciones,9.1
+Esmeraldas,Cleanliness,9.5,Resort Playa Azul Tonsupa Departamento de 2 Habitaciones,9.1
+Esmeraldas,Comfort,9.5,Resort Playa Azul Tonsupa Departamento de 2 Habitaciones,9.1
+Esmeraldas,Value for money,8.9,Resort Playa Azul Tonsupa Departamento de 2 Habitaciones,9.1
+Esmeraldas,Location,9.2,Resort Playa Azul Tonsupa Departamento de 2 Habitaciones,9.1
+Esmeraldas,Free WiFi,10,Resort Playa Azul Tonsupa Departamento de 2 Habitaciones,9.1
+Esmeraldas,Staff,9.2,Tonsupa Diamond Beach Apart - Hotel,8.7
+Esmeraldas,Facilities,8.6,Tonsupa Diamond Beach Apart - Hotel,8.7
+Esmeraldas,Cleanliness,8.9,Tonsupa Diamond Beach Apart - Hotel,8.7
+Esmeraldas,Comfort,9.0,Tonsupa Diamond Beach Apart - Hotel,8.7
+Esmeraldas,Value for money,8.7,Tonsupa Diamond Beach Apart - Hotel,8.7
+Esmeraldas,Location,9.6,Tonsupa Diamond Beach Apart - Hotel,8.7
+Esmeraldas,Free WiFi,7.5,Tonsupa Diamond Beach Apart - Hotel,8.7
+Esmeraldas,Staff,9.3,Aparthotel Oleaje,8.9
+Esmeraldas,Facilities,8.8,Aparthotel Oleaje,8.9
+Esmeraldas,Cleanliness,9.3,Aparthotel Oleaje,8.9
+Esmeraldas,Comfort,8.9,Aparthotel Oleaje,8.9
+Esmeraldas,Value for money,8.8,Aparthotel Oleaje,8.9
+Esmeraldas,Location,8.7,Aparthotel Oleaje,8.9
+Esmeraldas,Free WiFi,6.3,Aparthotel Oleaje,8.9
+Esmeraldas,Staff,8.7,Hotel Makana Resort,8.4
+Esmeraldas,Facilities,8.4,Hotel Makana Resort,8.4
+Esmeraldas,Cleanliness,9.0,Hotel Makana Resort,8.4
+Esmeraldas,Comfort,9.0,Hotel Makana Resort,8.4
+Esmeraldas,Value for money,8.0,Hotel Makana Resort,8.4
+Esmeraldas,Location,9.0,Hotel Makana Resort,8.4
+Esmeraldas,Free WiFi,7.2,Hotel Makana Resort,8.4
+Esmeraldas,Staff,9.2,La Bocana,8.7
+Esmeraldas,Facilities,8.6,La Bocana,8.7
+Esmeraldas,Cleanliness,9.1,La Bocana,8.7
+Esmeraldas,Comfort,9.0,La Bocana,8.7
+Esmeraldas,Value for money,8.7,La Bocana,8.7
+Esmeraldas,Location,9.1,La Bocana,8.7
+Esmeraldas,Free WiFi,7.2,La Bocana,8.7
+Esmeraldas,Staff,10,Departamentos frente al mar Resort Playa Azul,9.6
+Esmeraldas,Facilities,9.4,Departamentos frente al mar Resort Playa Azul,9.6
+Esmeraldas,Cleanliness,10,Departamentos frente al mar Resort Playa Azul,9.6
+Esmeraldas,Comfort,10,Departamentos frente al mar Resort Playa Azul,9.6
+Esmeraldas,Value for money,9.7,Departamentos frente al mar Resort Playa Azul,9.6
+Esmeraldas,Location,10,Departamentos frente al mar Resort Playa Azul,9.6
+Esmeraldas,Staff,8.4,Suite Makana #403,8.6
+Esmeraldas,Facilities,8.2,Suite Makana #403,8.6
+Esmeraldas,Cleanliness,8.6,Suite Makana #403,8.6
+Esmeraldas,Comfort,8.6,Suite Makana #403,8.6
+Esmeraldas,Value for money,8.1,Suite Makana #403,8.6
+Esmeraldas,Location,9.3,Suite Makana #403,8.6
+Esmeraldas,Free WiFi,9.2,Suite Makana #403,8.6
+Esmeraldas,Staff,8.9,Caramba Hospedaje,8.6
+Esmeraldas,Facilities,8.6,Caramba Hospedaje,8.6
+Esmeraldas,Cleanliness,8.8,Caramba Hospedaje,8.6
+Esmeraldas,Comfort,8.6,Caramba Hospedaje,8.6
+Esmeraldas,Value for money,8.3,Caramba Hospedaje,8.6
+Esmeraldas,Location,9.4,Caramba Hospedaje,8.6
+Esmeraldas,Free WiFi,8.8,Caramba Hospedaje,8.6
+Esmeraldas,Staff,9.2,Hotel Salduba,9.1
+Esmeraldas,Facilities,8.9,Hotel Salduba,9.1
+Esmeraldas,Cleanliness,9.3,Hotel Salduba,9.1
+Esmeraldas,Comfort,9.1,Hotel Salduba,9.1
+Esmeraldas,Value for money,8.7,Hotel Salduba,9.1
+Esmeraldas,Location,8.9,Hotel Salduba,9.1
+Esmeraldas,Free WiFi,7.5,Hotel Salduba,9.1
+Esmeraldas,Staff,8.6,Casa del mar,6.7
+Esmeraldas,Facilities,8.9,Casa del mar,6.7
+Esmeraldas,Cleanliness,8.9,Casa del mar,6.7
+Esmeraldas,Comfort,8.9,Casa del mar,6.7
+Esmeraldas,Value for money,8.9,Casa del mar,6.7
+Esmeraldas,Location,6.7,Casa del mar,6.7
+Esmeraldas,Staff,9.2,Tus Vacaciones en Tonsupa Ecuador.,9.1
+Esmeraldas,Facilities,8.8,Tus Vacaciones en Tonsupa Ecuador.,9.1
+Esmeraldas,Cleanliness,8.9,Tus Vacaciones en Tonsupa Ecuador.,9.1
+Esmeraldas,Comfort,8.8,Tus Vacaciones en Tonsupa Ecuador.,9.1
+Esmeraldas,Value for money,8.8,Tus Vacaciones en Tonsupa Ecuador.,9.1
+Esmeraldas,Location,8.0,Tus Vacaciones en Tonsupa Ecuador.,9.1
+Esmeraldas,Free WiFi,10,Tus Vacaciones en Tonsupa Ecuador.,9.1
+Esmeraldas,Staff,8.7,Departamentos frente al mar en Resort Playa Azul-Tonsupa,8.6
+Esmeraldas,Facilities,8.7,Departamentos frente al mar en Resort Playa Azul-Tonsupa,8.6
+Esmeraldas,Cleanliness,8.6,Departamentos frente al mar en Resort Playa Azul-Tonsupa,8.6
+Esmeraldas,Comfort,8.8,Departamentos frente al mar en Resort Playa Azul-Tonsupa,8.6
+Esmeraldas,Value for money,8.1,Departamentos frente al mar en Resort Playa Azul-Tonsupa,8.6
+Esmeraldas,Location,9.0,Departamentos frente al mar en Resort Playa Azul-Tonsupa,8.6
+Esmeraldas,Free WiFi,5.2,Departamentos frente al mar en Resort Playa Azul-Tonsupa,8.6
+Cuenca,Staff,8.8,Hotel Santiago de Compostella Suites,8.1
+Cuenca,Facilities,8.2,Hotel Santiago de Compostella Suites,8.1
+Cuenca,Cleanliness,8.5,Hotel Santiago de Compostella Suites,8.1
+Cuenca,Comfort,8.5,Hotel Santiago de Compostella Suites,8.1
+Cuenca,Value for money,8.3,Hotel Santiago de Compostella Suites,8.1
+Cuenca,Location,8.9,Hotel Santiago de Compostella Suites,8.1
+Cuenca,Free WiFi,7.8,Hotel Santiago de Compostella Suites,8.1
+Cuenca,Staff,9.5,Floré Hotel Boutique,8.9
+Cuenca,Facilities,8.8,Floré Hotel Boutique,8.9
+Cuenca,Cleanliness,9.0,Floré Hotel Boutique,8.9
+Cuenca,Comfort,9.0,Floré Hotel Boutique,8.9
+Cuenca,Value for money,8.8,Floré Hotel Boutique,8.9
+Cuenca,Location,9.7,Floré Hotel Boutique,8.9
+Cuenca,Free WiFi,8.5,Floré Hotel Boutique,8.9
+Cuenca,Staff,8.9,Loft NASS Atahualpa,8.6
+Cuenca,Facilities,8.6,Loft NASS Atahualpa,8.6
+Cuenca,Cleanliness,9.0,Loft NASS Atahualpa,8.6
+Cuenca,Comfort,8.9,Loft NASS Atahualpa,8.6
+Cuenca,Value for money,8.8,Loft NASS Atahualpa,8.6
+Cuenca,Location,9.1,Loft NASS Atahualpa,8.6
+Cuenca,Free WiFi,8.0,Loft NASS Atahualpa,8.6
+Cuenca,Staff,9.7,Hostal Posada del Angel,9.3
+Cuenca,Facilities,9.1,Hostal Posada del Angel,9.3
+Cuenca,Cleanliness,9.5,Hostal Posada del Angel,9.3
+Cuenca,Comfort,9.3,Hostal Posada del Angel,9.3
+Cuenca,Value for money,9.5,Hostal Posada del Angel,9.3
+Cuenca,Location,9.7,Hostal Posada del Angel,9.3
+Cuenca,Free WiFi,8.8,Hostal Posada del Angel,9.3
+Cuenca,Staff,9.5,Hotel La Orquidea,8.8
+Cuenca,Facilities,8.7,Hotel La Orquidea,8.8
+Cuenca,Cleanliness,9.1,Hotel La Orquidea,8.8
+Cuenca,Comfort,8.9,Hotel La Orquidea,8.8
+Cuenca,Value for money,9.0,Hotel La Orquidea,8.8
+Cuenca,Location,9.8,Hotel La Orquidea,8.8
+Cuenca,Free WiFi,8.8,Hotel La Orquidea,8.8
+Cuenca,Staff,8.5,Hotel Boutique Castilla de Léon,8.0
+Cuenca,Facilities,8.1,Hotel Boutique Castilla de Léon,8.0
+Cuenca,Cleanliness,8.4,Hotel Boutique Castilla de Léon,8.0
+Cuenca,Comfort,8.4,Hotel Boutique Castilla de Léon,8.0
+Cuenca,Value for money,8.3,Hotel Boutique Castilla de Léon,8.0
+Cuenca,Location,8.5,Hotel Boutique Castilla de Léon,8.0
+Cuenca,Free WiFi,8.1,Hotel Boutique Castilla de Léon,8.0
+Cuenca,Staff,8.7,Selina Cuenca,8.3
+Cuenca,Facilities,8.5,Selina Cuenca,8.3
+Cuenca,Cleanliness,8.7,Selina Cuenca,8.3
+Cuenca,Comfort,8.6,Selina Cuenca,8.3
+Cuenca,Value for money,8.3,Selina Cuenca,8.3
+Cuenca,Location,9.4,Selina Cuenca,8.3
+Cuenca,Free WiFi,8.8,Selina Cuenca,8.3
+Cuenca,Staff,9.5,Hotel Posada del Rey,8.8
+Cuenca,Facilities,8.8,Hotel Posada del Rey,8.8
+Cuenca,Cleanliness,9.2,Hotel Posada del Rey,8.8
+Cuenca,Comfort,9.0,Hotel Posada del Rey,8.8
+Cuenca,Value for money,8.9,Hotel Posada del Rey,8.8
+Cuenca,Location,9.7,Hotel Posada del Rey,8.8
+Cuenca,Free WiFi,8.0,Hotel Posada del Rey,8.8
+Cuenca,Staff,9.3,Hotel Azul de la Plaza,8.7
+Cuenca,Facilities,8.8,Hotel Azul de la Plaza,8.7
+Cuenca,Cleanliness,8.9,Hotel Azul de la Plaza,8.7
+Cuenca,Comfort,9.1,Hotel Azul de la Plaza,8.7
+Cuenca,Value for money,8.6,Hotel Azul de la Plaza,8.7
+Cuenca,Location,9.1,Hotel Azul de la Plaza,8.7
+Cuenca,Free WiFi,8.2,Hotel Azul de la Plaza,8.7
+Cuenca,Staff,9.7,Pepe's House Cuenca Boutique Hotel l B&B,9.3
+Cuenca,Facilities,9.3,Pepe's House Cuenca Boutique Hotel l B&B,9.3
+Cuenca,Cleanliness,9.6,Pepe's House Cuenca Boutique Hotel l B&B,9.3
+Cuenca,Comfort,9.4,Pepe's House Cuenca Boutique Hotel l B&B,9.3
+Cuenca,Value for money,9.1,Pepe's House Cuenca Boutique Hotel l B&B,9.3
+Cuenca,Location,9.7,Pepe's House Cuenca Boutique Hotel l B&B,9.3
+Cuenca,Free WiFi,9.3,Pepe's House Cuenca Boutique Hotel l B&B,9.3
+Cuenca,Staff,9.2,Hostal Mariscal Inn & Suite,8.4
+Cuenca,Facilities,8.4,Hostal Mariscal Inn & Suite,8.4
+Cuenca,Cleanliness,8.9,Hostal Mariscal Inn & Suite,8.4
+Cuenca,Comfort,8.6,Hostal Mariscal Inn & Suite,8.4
+Cuenca,Value for money,8.8,Hostal Mariscal Inn & Suite,8.4
+Cuenca,Location,8.9,Hostal Mariscal Inn & Suite,8.4
+Cuenca,Free WiFi,7.5,Hostal Mariscal Inn & Suite,8.4
+Cuenca,Staff,9.3,Villa Emilia Hostal,9.4
+Cuenca,Facilities,9.5,Villa Emilia Hostal,9.4
+Cuenca,Cleanliness,9.6,Villa Emilia Hostal,9.4
+Cuenca,Comfort,9.6,Villa Emilia Hostal,9.4
+Cuenca,Value for money,9.5,Villa Emilia Hostal,9.4
+Cuenca,Location,9.6,Villa Emilia Hostal,9.4
+Cuenca,Free WiFi,8.9,Villa Emilia Hostal,9.4
+Cuenca,Staff,8.9,Morenica del Rosario,8.5
+Cuenca,Facilities,8.5,Morenica del Rosario,8.5
+Cuenca,Cleanliness,9.0,Morenica del Rosario,8.5
+Cuenca,Comfort,8.9,Morenica del Rosario,8.5
+Cuenca,Value for money,8.7,Morenica del Rosario,8.5
+Cuenca,Location,9.5,Morenica del Rosario,8.5
+Cuenca,Free WiFi,5.8,Morenica del Rosario,8.5
+Cuenca,Staff,9.3,Four Points by Sheraton Cuenca,9.0
+Cuenca,Facilities,9.2,Four Points by Sheraton Cuenca,9.0
+Cuenca,Cleanliness,9.3,Four Points by Sheraton Cuenca,9.0
+Cuenca,Comfort,9.3,Four Points by Sheraton Cuenca,9.0
+Cuenca,Value for money,8.8,Four Points by Sheraton Cuenca,9.0
+Cuenca,Location,9.0,Four Points by Sheraton Cuenca,9.0
+Cuenca,Free WiFi,8.4,Four Points by Sheraton Cuenca,9.0
+Cuenca,Staff,8.5,Hotel Nass Pinar del Lago,8.4
+Cuenca,Facilities,8.4,Hotel Nass Pinar del Lago,8.4
+Cuenca,Cleanliness,8.8,Hotel Nass Pinar del Lago,8.4
+Cuenca,Comfort,8.8,Hotel Nass Pinar del Lago,8.4
+Cuenca,Value for money,8.8,Hotel Nass Pinar del Lago,8.4
+Cuenca,Location,9.0,Hotel Nass Pinar del Lago,8.4
+Cuenca,Free WiFi,7.9,Hotel Nass Pinar del Lago,8.4
+Cuenca,Staff,8.9,Hosteria Dos Chorreras,8.9
+Cuenca,Facilities,9.2,Hosteria Dos Chorreras,8.9
+Cuenca,Cleanliness,9.3,Hosteria Dos Chorreras,8.9
+Cuenca,Comfort,9.2,Hosteria Dos Chorreras,8.9
+Cuenca,Value for money,8.5,Hosteria Dos Chorreras,8.9
+Cuenca,Location,9.2,Hosteria Dos Chorreras,8.9
+Cuenca,Free WiFi,7.4,Hosteria Dos Chorreras,8.9
+Cuenca,Staff,9.3,Guesthouse Bella Vista,8.7
+Cuenca,Facilities,9.0,Guesthouse Bella Vista,8.7
+Cuenca,Cleanliness,9.0,Guesthouse Bella Vista,8.7
+Cuenca,Comfort,9.0,Guesthouse Bella Vista,8.7
+Cuenca,Value for money,9.3,Guesthouse Bella Vista,8.7
+Cuenca,Location,8.5,Guesthouse Bella Vista,8.7
+Cuenca,Free WiFi,9.0,Guesthouse Bella Vista,8.7
+Cuenca,Staff,9.9,Itza Hotel Boutique Internacional,9.3
+Cuenca,Facilities,9.5,Itza Hotel Boutique Internacional,9.3
+Cuenca,Cleanliness,9.8,Itza Hotel Boutique Internacional,9.3
+Cuenca,Comfort,9.6,Itza Hotel Boutique Internacional,9.3
+Cuenca,Value for money,9.0,Itza Hotel Boutique Internacional,9.3
+Cuenca,Location,9.7,Itza Hotel Boutique Internacional,9.3
+Cuenca,Free WiFi,9.2,Itza Hotel Boutique Internacional,9.3
+Cuenca,Staff,9.3,Hostal Casa de Lidice,9.1
+Cuenca,Facilities,9.1,Hostal Casa de Lidice,9.1
+Cuenca,Cleanliness,9.5,Hostal Casa de Lidice,9.1
+Cuenca,Comfort,9.3,Hostal Casa de Lidice,9.1
+Cuenca,Value for money,9.1,Hostal Casa de Lidice,9.1
+Cuenca,Location,9.3,Hostal Casa de Lidice,9.1
+Cuenca,Free WiFi,6.2,Hostal Casa de Lidice,9.1
+Cuenca,Staff,9.5,Apartamentos Otorongo Cuenca Ecuador,8.9
+Cuenca,Facilities,9.0,Apartamentos Otorongo Cuenca Ecuador,8.9
+Cuenca,Cleanliness,9.1,Apartamentos Otorongo Cuenca Ecuador,8.9
+Cuenca,Comfort,8.9,Apartamentos Otorongo Cuenca Ecuador,8.9
+Cuenca,Value for money,8.9,Apartamentos Otorongo Cuenca Ecuador,8.9
+Cuenca,Location,9.5,Apartamentos Otorongo Cuenca Ecuador,8.9
+Cuenca,Free WiFi,9.4,Apartamentos Otorongo Cuenca Ecuador,8.9
+Cuenca,Staff,9.2,El Dorado Hotel,9.0
+Cuenca,Facilities,9.0,El Dorado Hotel,9.0
+Cuenca,Cleanliness,9.3,El Dorado Hotel,9.0
+Cuenca,Comfort,9.4,El Dorado Hotel,9.0
+Cuenca,Value for money,8.8,El Dorado Hotel,9.0
+Cuenca,Location,9.5,El Dorado Hotel,9.0
+Cuenca,Free WiFi,8.9,El Dorado Hotel,9.0
+Cuenca,Staff,8.4,Check Inn Bed and Breakfast,7.7
+Cuenca,Facilities,7.4,Check Inn Bed and Breakfast,7.7
+Cuenca,Cleanliness,8.0,Check Inn Bed and Breakfast,7.7
+Cuenca,Comfort,7.7,Check Inn Bed and Breakfast,7.7
+Cuenca,Value for money,8.4,Check Inn Bed and Breakfast,7.7
+Cuenca,Location,9.5,Check Inn Bed and Breakfast,7.7
+Cuenca,Free WiFi,7.3,Check Inn Bed and Breakfast,7.7
+Cuenca,Staff,9.0,Hotel Valgus,8.7
+Cuenca,Facilities,8.9,Hotel Valgus,8.7
+Cuenca,Cleanliness,9.1,Hotel Valgus,8.7
+Cuenca,Comfort,9.2,Hotel Valgus,8.7
+Cuenca,Value for money,8.6,Hotel Valgus,8.7
+Cuenca,Location,9.4,Hotel Valgus,8.7
+Cuenca,Free WiFi,6.5,Hotel Valgus,8.7
+Cuenca,Staff,8.3,Hotel Spa Santa Ana,7.5
+Cuenca,Facilities,7.5,Hotel Spa Santa Ana,7.5
+Cuenca,Cleanliness,8.0,Hotel Spa Santa Ana,7.5
+Cuenca,Comfort,7.9,Hotel Spa Santa Ana,7.5
+Cuenca,Value for money,7.6,Hotel Spa Santa Ana,7.5
+Cuenca,Location,9.0,Hotel Spa Santa Ana,7.5
+Cuenca,Free WiFi,7.5,Hotel Spa Santa Ana,7.5
+Quito,Staff,9.3,Hotel David,8.7
+Quito,Facilities,8.6,Hotel David,8.7
+Quito,Cleanliness,8.9,Hotel David,8.7
+Quito,Comfort,8.8,Hotel David,8.7
+Quito,Value for money,9.0,Hotel David,8.7
+Quito,Location,8.8,Hotel David,8.7
+Quito,Free WiFi,8.6,Hotel David,8.7
+Quito,Staff,9.3,Rincón Familiar Hostel Boutique,8.3
+Quito,Facilities,8.1,Rincón Familiar Hostel Boutique,8.3
+Quito,Cleanliness,8.6,Rincón Familiar Hostel Boutique,8.3
+Quito,Comfort,8.5,Rincón Familiar Hostel Boutique,8.3
+Quito,Value for money,8.6,Rincón Familiar Hostel Boutique,8.3
+Quito,Location,9.1,Rincón Familiar Hostel Boutique,8.3
+Quito,Free WiFi,8.6,Rincón Familiar Hostel Boutique,8.3
+Quito,Staff,9.2,Boutique Hotel Antinea,8.9
+Quito,Facilities,8.9,Boutique Hotel Antinea,8.9
+Quito,Cleanliness,9.1,Boutique Hotel Antinea,8.9
+Quito,Comfort,9.0,Boutique Hotel Antinea,8.9
+Quito,Value for money,8.9,Boutique Hotel Antinea,8.9
+Quito,Location,9.2,Boutique Hotel Antinea,8.9
+Quito,Free WiFi,8.6,Boutique Hotel Antinea,8.9
+Quito,Staff,9.0,Hotel Bellavista Quito,8.1
+Quito,Facilities,8.0,Hotel Bellavista Quito,8.1
+Quito,Cleanliness,8.5,Hotel Bellavista Quito,8.1
+Quito,Comfort,8.4,Hotel Bellavista Quito,8.1
+Quito,Value for money,8.2,Hotel Bellavista Quito,8.1
+Quito,Location,8.6,Hotel Bellavista Quito,8.1
+Quito,Free WiFi,8.7,Hotel Bellavista Quito,8.1
+Quito,Staff,9.1,Hotel Bernys Estrellita,7.7
+Quito,Facilities,7.8,Hotel Bernys Estrellita,7.7
+Quito,Cleanliness,8.4,Hotel Bernys Estrellita,7.7
+Quito,Comfort,8.0,Hotel Bernys Estrellita,7.7
+Quito,Value for money,8.5,Hotel Bernys Estrellita,7.7
+Quito,Location,8.2,Hotel Bernys Estrellita,7.7
+Quito,Free WiFi,5.8,Hotel Bernys Estrellita,7.7
+Quito,Staff,9.3,Wyndham Garden Quito,9.0
+Quito,Facilities,8.9,Wyndham Garden Quito,9.0
+Quito,Cleanliness,9.3,Wyndham Garden Quito,9.0
+Quito,Comfort,9.3,Wyndham Garden Quito,9.0
+Quito,Value for money,8.8,Wyndham Garden Quito,9.0
+Quito,Location,9.4,Wyndham Garden Quito,9.0
+Quito,Free WiFi,8.9,Wyndham Garden Quito,9.0
+Quito,Staff,9.8,Posada Tambuca,9.4
+Quito,Facilities,9.2,Posada Tambuca,9.4
+Quito,Cleanliness,9.5,Posada Tambuca,9.4
+Quito,Comfort,9.3,Posada Tambuca,9.4
+Quito,Value for money,9.5,Posada Tambuca,9.4
+Quito,Location,9.3,Posada Tambuca,9.4
+Quito,Free WiFi,9.6,Posada Tambuca,9.4
+Quito,Staff,9.4,Hostal Yumbo Imperial,8.4
+Quito,Facilities,8.0,Hostal Yumbo Imperial,8.4
+Quito,Cleanliness,8.3,Hostal Yumbo Imperial,8.4
+Quito,Comfort,8.1,Hostal Yumbo Imperial,8.4
+Quito,Value for money,9.1,Hostal Yumbo Imperial,8.4
+Quito,Location,9.5,Hostal Yumbo Imperial,8.4
+Quito,Free WiFi,8.1,Hostal Yumbo Imperial,8.4
+Quito,Staff,9.2,Hotel Reina Isabel,8.9
+Quito,Facilities,9.0,Hotel Reina Isabel,8.9
+Quito,Cleanliness,9.3,Hotel Reina Isabel,8.9
+Quito,Comfort,9.2,Hotel Reina Isabel,8.9
+Quito,Value for money,8.9,Hotel Reina Isabel,8.9
+Quito,Location,8.8,Hotel Reina Isabel,8.9
+Quito,Free WiFi,8.4,Hotel Reina Isabel,8.9
+Quito,Staff,9.9,Hotel Casona 1914,9.7
+Quito,Facilities,9.7,Hotel Casona 1914,9.7
+Quito,Cleanliness,9.8,Hotel Casona 1914,9.7
+Quito,Comfort,9.8,Hotel Casona 1914,9.7
+Quito,Value for money,9.7,Hotel Casona 1914,9.7
+Quito,Location,9.1,Hotel Casona 1914,9.7
+Quito,Free WiFi,9.3,Hotel Casona 1914,9.7
+Quito,Staff,8.8,Hostal Juana de Arco,8.3
+Quito,Facilities,8.1,Hostal Juana de Arco,8.3
+Quito,Cleanliness,8.7,Hostal Juana de Arco,8.3
+Quito,Comfort,8.3,Hostal Juana de Arco,8.3
+Quito,Value for money,9.1,Hostal Juana de Arco,8.3
+Quito,Location,9.2,Hostal Juana de Arco,8.3
+Quito,Free WiFi,8.9,Hostal Juana de Arco,8.3
+Quito,Staff,9.0,ibis Quito,8.8
+Quito,Facilities,9.0,ibis Quito,8.8
+Quito,Cleanliness,9.3,ibis Quito,8.8
+Quito,Comfort,9.1,ibis Quito,8.8
+Quito,Value for money,8.9,ibis Quito,8.8
+Quito,Location,9.3,ibis Quito,8.8
+Quito,Free WiFi,8.8,ibis Quito,8.8
+Quito,Staff,9.5,ArtPlaza,8.8
+Quito,Facilities,8.6,ArtPlaza,8.8
+Quito,Cleanliness,9.1,ArtPlaza,8.8
+Quito,Comfort,8.9,ArtPlaza,8.8
+Quito,Value for money,8.8,ArtPlaza,8.8
+Quito,Location,8.9,ArtPlaza,8.8
+Quito,Free WiFi,9.0,ArtPlaza,8.8
+Quito,Staff,8.9,ITSAHOME Apartments Torre Seis,8.7
+Quito,Facilities,8.7,ITSAHOME Apartments Torre Seis,8.7
+Quito,Cleanliness,9.0,ITSAHOME Apartments Torre Seis,8.7
+Quito,Comfort,9.0,ITSAHOME Apartments Torre Seis,8.7
+Quito,Value for money,8.9,ITSAHOME Apartments Torre Seis,8.7
+Quito,Location,9.1,ITSAHOME Apartments Torre Seis,8.7
+Quito,Free WiFi,8.0,ITSAHOME Apartments Torre Seis,8.7
+Quito,Staff,9.7,Vista del Angel Hotel Boutique,9.3
+Quito,Facilities,9.4,Vista del Angel Hotel Boutique,9.3
+Quito,Cleanliness,9.6,Vista del Angel Hotel Boutique,9.3
+Quito,Comfort,9.6,Vista del Angel Hotel Boutique,9.3
+Quito,Value for money,9.2,Vista del Angel Hotel Boutique,9.3
+Quito,Location,9.0,Vista del Angel Hotel Boutique,9.3
+Quito,Free WiFi,9.5,Vista del Angel Hotel Boutique,9.3
+Quito,Staff,9.2,Hotel Huasi Continental,8.2
+Quito,Facilities,8.0,Hotel Huasi Continental,8.2
+Quito,Cleanliness,8.5,Hotel Huasi Continental,8.2
+Quito,Comfort,8.4,Hotel Huasi Continental,8.2
+Quito,Value for money,8.5,Hotel Huasi Continental,8.2
+Quito,Location,9.0,Hotel Huasi Continental,8.2
+Quito,Free WiFi,10,Hotel Huasi Continental,8.2
+Quito,Staff,8.8,Dann Carlton Quito,8.7
+Quito,Facilities,8.8,Dann Carlton Quito,8.7
+Quito,Cleanliness,9.1,Dann Carlton Quito,8.7
+Quito,Comfort,9.2,Dann Carlton Quito,8.7
+Quito,Value for money,8.4,Dann Carlton Quito,8.7
+Quito,Location,9.5,Dann Carlton Quito,8.7
+Quito,Free WiFi,8.4,Dann Carlton Quito,8.7
+Guayaquil,Staff,8.0,Hotel Air Suites,7.5
+Guayaquil,Facilities,7.3,Hotel Air Suites,7.5
+Guayaquil,Cleanliness,7.9,Hotel Air Suites,7.5
+Guayaquil,Comfort,7.7,Hotel Air Suites,7.5
+Guayaquil,Value for money,7.4,Hotel Air Suites,7.5
+Guayaquil,Location,8.5,Hotel Air Suites,7.5
+Guayaquil,Free WiFi,7.1,Hotel Air Suites,7.5
+Guayaquil,Staff,8.7,Hotel Perla Central,7.9
+Guayaquil,Facilities,7.8,Hotel Perla Central,7.9
+Guayaquil,Cleanliness,8.1,Hotel Perla Central,7.9
+Guayaquil,Comfort,8.1,Hotel Perla Central,7.9
+Guayaquil,Value for money,8.1,Hotel Perla Central,7.9
+Guayaquil,Location,9.3,Hotel Perla Central,7.9
+Guayaquil,Free WiFi,7.9,Hotel Perla Central,7.9
+Guayaquil,Staff,9.3,Hotel Palace Guayaquil,8.9
+Guayaquil,Facilities,8.9,Hotel Palace Guayaquil,8.9
+Guayaquil,Cleanliness,9.3,Hotel Palace Guayaquil,8.9
+Guayaquil,Comfort,9.1,Hotel Palace Guayaquil,8.9
+Guayaquil,Value for money,8.8,Hotel Palace Guayaquil,8.9
+Guayaquil,Location,8.9,Hotel Palace Guayaquil,8.9
+Guayaquil,Free WiFi,8.8,Hotel Palace Guayaquil,8.9
+Guayaquil,Staff,9.3,River Garden Hotel + Suites,8.8
+Guayaquil,Facilities,9.1,River Garden Hotel + Suites,8.8
+Guayaquil,Cleanliness,9.3,River Garden Hotel + Suites,8.8
+Guayaquil,Comfort,9.3,River Garden Hotel + Suites,8.8
+Guayaquil,Value for money,8.5,River Garden Hotel + Suites,8.8
+Guayaquil,Location,9.4,River Garden Hotel + Suites,8.8
+Guayaquil,Free WiFi,8.6,River Garden Hotel + Suites,8.8
+Guayaquil,Staff,8.9,TRYP by Wyndham Guayaquil,8.5
+Guayaquil,Facilities,8.5,TRYP by Wyndham Guayaquil,8.5
+Guayaquil,Cleanliness,8.8,TRYP by Wyndham Guayaquil,8.5
+Guayaquil,Comfort,8.8,TRYP by Wyndham Guayaquil,8.5
+Guayaquil,Value for money,8.2,TRYP by Wyndham Guayaquil,8.5
+Guayaquil,Location,9.4,TRYP by Wyndham Guayaquil,8.5
+Guayaquil,Free WiFi,8.8,TRYP by Wyndham Guayaquil,8.5
+Guayaquil,Staff,8.9,Wyndham Garden Guayaquil,8.5
+Guayaquil,Facilities,8.6,Wyndham Garden Guayaquil,8.5
+Guayaquil,Cleanliness,9.0,Wyndham Garden Guayaquil,8.5
+Guayaquil,Comfort,9.0,Wyndham Garden Guayaquil,8.5
+Guayaquil,Value for money,8.4,Wyndham Garden Guayaquil,8.5
+Guayaquil,Location,9.2,Wyndham Garden Guayaquil,8.5
+Guayaquil,Free WiFi,8.6,Wyndham Garden Guayaquil,8.5
+Guayaquil,Staff,9.3,Unipark by Oro Verde Hotels,8.8
+Guayaquil,Facilities,8.8,Unipark by Oro Verde Hotels,8.8
+Guayaquil,Cleanliness,9.1,Unipark by Oro Verde Hotels,8.8
+Guayaquil,Comfort,9.1,Unipark by Oro Verde Hotels,8.8
+Guayaquil,Value for money,8.6,Unipark by Oro Verde Hotels,8.8
+Guayaquil,Location,9.2,Unipark by Oro Verde Hotels,8.8
+Guayaquil,Free WiFi,9.1,Unipark by Oro Verde Hotels,8.8
+Guayaquil,Staff,9.2,Holiday Inn Guayaquil Airport; an IHG Hotel,8.8
+Guayaquil,Facilities,9.1,Holiday Inn Guayaquil Airport; an IHG Hotel,8.8
+Guayaquil,Cleanliness,9.3,Holiday Inn Guayaquil Airport; an IHG Hotel,8.8
+Guayaquil,Comfort,9.3,Holiday Inn Guayaquil Airport; an IHG Hotel,8.8
+Guayaquil,Value for money,8.4,Holiday Inn Guayaquil Airport; an IHG Hotel,8.8
+Guayaquil,Location,9.4,Holiday Inn Guayaquil Airport; an IHG Hotel,8.8
+Guayaquil,Free WiFi,8.8,Holiday Inn Guayaquil Airport; an IHG Hotel,8.8
+Guayaquil,Staff,9.0,YU! Smarthotels,8.5
+Guayaquil,Facilities,8.4,YU! Smarthotels,8.5
+Guayaquil,Cleanliness,8.8,YU! Smarthotels,8.5
+Guayaquil,Comfort,8.8,YU! Smarthotels,8.5
+Guayaquil,Value for money,8.5,YU! Smarthotels,8.5
+Guayaquil,Location,8.5,YU! Smarthotels,8.5
+Guayaquil,Free WiFi,8.4,YU! Smarthotels,8.5
+Guayaquil,Staff,9.3,Wyndham Guayaquil; Puerto Santa Ana,8.9
+Guayaquil,Facilities,9.1,Wyndham Guayaquil; Puerto Santa Ana,8.9
+Guayaquil,Cleanliness,9.3,Wyndham Guayaquil; Puerto Santa Ana,8.9
+Guayaquil,Comfort,9.4,Wyndham Guayaquil; Puerto Santa Ana,8.9
+Guayaquil,Value for money,8.5,Wyndham Guayaquil; Puerto Santa Ana,8.9
+Guayaquil,Location,9.5,Wyndham Guayaquil; Puerto Santa Ana,8.9
+Guayaquil,Free WiFi,8.9,Wyndham Guayaquil; Puerto Santa Ana,8.9
+Guayaquil,Staff,8.9,Hotel de Alborada,8.4
+Guayaquil,Facilities,8.4,Hotel de Alborada,8.4
+Guayaquil,Cleanliness,8.8,Hotel de Alborada,8.4
+Guayaquil,Comfort,8.5,Hotel de Alborada,8.4
+Guayaquil,Value for money,8.4,Hotel de Alborada,8.4
+Guayaquil,Location,8.4,Hotel de Alborada,8.4
+Guayaquil,Free WiFi,8.8,Hotel de Alborada,8.4
+Guayaquil,Staff,8.9,The Park Hotel,7.9
+Guayaquil,Facilities,7.6,The Park Hotel,7.9
+Guayaquil,Cleanliness,8.3,The Park Hotel,7.9
+Guayaquil,Comfort,8.0,The Park Hotel,7.9
+Guayaquil,Value for money,7.8,The Park Hotel,7.9
+Guayaquil,Location,9.1,The Park Hotel,7.9
+Guayaquil,Free WiFi,7.8,The Park Hotel,7.9
+Guayaquil,Staff,9.1,Sheraton Guayaquil,8.7
+Guayaquil,Facilities,8.7,Sheraton Guayaquil,8.7
+Guayaquil,Cleanliness,9.1,Sheraton Guayaquil,8.7
+Guayaquil,Comfort,9.1,Sheraton Guayaquil,8.7
+Guayaquil,Value for money,8.3,Sheraton Guayaquil,8.7
+Guayaquil,Location,9.4,Sheraton Guayaquil,8.7
+Guayaquil,Free WiFi,8.8,Sheraton Guayaquil,8.7
+Guayaquil,Staff,8.9,DC Suites Aeropuerto,8.1
+Guayaquil,Facilities,8.0,DC Suites Aeropuerto,8.1
+Guayaquil,Cleanliness,8.6,DC Suites Aeropuerto,8.1
+Guayaquil,Comfort,8.4,DC Suites Aeropuerto,8.1
+Guayaquil,Value for money,8.3,DC Suites Aeropuerto,8.1
+Guayaquil,Location,8.6,DC Suites Aeropuerto,8.1
+Guayaquil,Free WiFi,8.7,DC Suites Aeropuerto,8.1
+Guayaquil,Staff,8.3,Airport Hotel,7.8
+Guayaquil,Facilities,7.7,Airport Hotel,7.8
+Guayaquil,Cleanliness,8.2,Airport Hotel,7.8
+Guayaquil,Comfort,8.0,Airport Hotel,7.8
+Guayaquil,Value for money,7.8,Airport Hotel,7.8
+Guayaquil,Location,8.9,Airport Hotel,7.8
+Guayaquil,Free WiFi,7.2,Airport Hotel,7.8
+Guayaquil,Staff,8.9,Hotel Puerto Pacifico Guayaquil Airport,8.4
+Guayaquil,Facilities,8.5,Hotel Puerto Pacifico Guayaquil Airport,8.4
+Guayaquil,Cleanliness,8.9,Hotel Puerto Pacifico Guayaquil Airport,8.4
+Guayaquil,Comfort,8.8,Hotel Puerto Pacifico Guayaquil Airport,8.4
+Guayaquil,Value for money,8.2,Hotel Puerto Pacifico Guayaquil Airport,8.4
+Guayaquil,Location,8.8,Hotel Puerto Pacifico Guayaquil Airport,8.4
+Guayaquil,Free WiFi,7.9,Hotel Puerto Pacifico Guayaquil Airport,8.4
+Guayaquil,Staff,8.7,Hilton Colon Guayaquil Hotel,8.6
+Guayaquil,Facilities,8.8,Hilton Colon Guayaquil Hotel,8.6
+Guayaquil,Cleanliness,9.1,Hilton Colon Guayaquil Hotel,8.6
+Guayaquil,Comfort,9.2,Hilton Colon Guayaquil Hotel,8.6
+Guayaquil,Value for money,8.3,Hilton Colon Guayaquil Hotel,8.6
+Guayaquil,Location,9.1,Hilton Colon Guayaquil Hotel,8.6
+Guayaquil,Free WiFi,8.4,Hilton Colon Guayaquil Hotel,8.6
+Guayaquil,Staff,8.8,Pepe's House Guayaquil I Self Check-In MicroHotel,8.4
+Guayaquil,Facilities,8.3,Pepe's House Guayaquil I Self Check-In MicroHotel,8.4
+Guayaquil,Cleanliness,8.8,Pepe's House Guayaquil I Self Check-In MicroHotel,8.4
+Guayaquil,Comfort,8.8,Pepe's House Guayaquil I Self Check-In MicroHotel,8.4
+Guayaquil,Value for money,8.5,Pepe's House Guayaquil I Self Check-In MicroHotel,8.4
+Guayaquil,Location,9.0,Pepe's House Guayaquil I Self Check-In MicroHotel,8.4
+Guayaquil,Free WiFi,9.4,Pepe's House Guayaquil I Self Check-In MicroHotel,8.4
+Guayaquil,Staff,8.6,Hotel Ramada,7.9
+Guayaquil,Facilities,7.8,Hotel Ramada,7.9
+Guayaquil,Cleanliness,8.3,Hotel Ramada,7.9
+Guayaquil,Comfort,8.3,Hotel Ramada,7.9
+Guayaquil,Value for money,7.8,Hotel Ramada,7.9
+Guayaquil,Location,9.1,Hotel Ramada,7.9
+Guayaquil,Free WiFi,8.2,Hotel Ramada,7.9
+Guayaquil,Staff,8.4,Hotel Patrimonial by Greenfield,8.4
+Guayaquil,Facilities,8.4,Hotel Patrimonial by Greenfield,8.4
+Guayaquil,Cleanliness,8.7,Hotel Patrimonial by Greenfield,8.4
+Guayaquil,Comfort,8.8,Hotel Patrimonial by Greenfield,8.4
+Guayaquil,Value for money,8.6,Hotel Patrimonial by Greenfield,8.4
+Guayaquil,Location,8.4,Hotel Patrimonial by Greenfield,8.4
+Guayaquil,Free WiFi,8.7,Hotel Patrimonial by Greenfield,8.4
+Guayaquil,Staff,8.7,Hotel Marcelius,8.3
+Guayaquil,Facilities,8.3,Hotel Marcelius,8.3
+Guayaquil,Cleanliness,8.7,Hotel Marcelius,8.3
+Guayaquil,Comfort,8.6,Hotel Marcelius,8.3
+Guayaquil,Value for money,8.2,Hotel Marcelius,8.3
+Guayaquil,Location,8.7,Hotel Marcelius,8.3
+Guayaquil,Free WiFi,7.9,Hotel Marcelius,8.3
+Guayaquil,Staff,9.3,Hotel Boutique Mansion Del Rio,8.6
+Guayaquil,Facilities,8.5,Hotel Boutique Mansion Del Rio,8.6
+Guayaquil,Cleanliness,8.7,Hotel Boutique Mansion Del Rio,8.6
+Guayaquil,Comfort,8.8,Hotel Boutique Mansion Del Rio,8.6
+Guayaquil,Value for money,8.6,Hotel Boutique Mansion Del Rio,8.6
+Guayaquil,Location,9.4,Hotel Boutique Mansion Del Rio,8.6
+Guayaquil,Free WiFi,8.8,Hotel Boutique Mansion Del Rio,8.6
+Guayaquil,Staff,8.9,Manso Boutique Guest House,8.0
+Guayaquil,Facilities,7.9,Manso Boutique Guest House,8.0
+Guayaquil,Cleanliness,8.1,Manso Boutique Guest House,8.0
+Guayaquil,Comfort,8.1,Manso Boutique Guest House,8.0
+Guayaquil,Value for money,8.2,Manso Boutique Guest House,8.0
+Guayaquil,Location,9.4,Manso Boutique Guest House,8.0
+Guayaquil,Free WiFi,8.5,Manso Boutique Guest House,8.0

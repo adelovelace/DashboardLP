@@ -1,0 +1,1863 @@
+id,provincia,categoria,score
+1,Esmeraldas,Staff,9.1
+1,Esmeraldas,Facilities,8.4
+1,Esmeraldas,Cleanliness,8.5
+1,Esmeraldas,Comfort,8.5
+1,Esmeraldas,Value for money,8.6
+1,Esmeraldas,Location,9.1
+1,Esmeraldas,Free WiFi,7.5
+2,Esmeraldas,Staff,9.4
+2,Esmeraldas,Facilities,8.9
+2,Esmeraldas,Cleanliness,9.2
+2,Esmeraldas,Comfort,9.1
+2,Esmeraldas,Value for money,8.6
+2,Esmeraldas,Location,9.5
+2,Esmeraldas,Free WiFi,7.9
+3,Esmeraldas,Staff,9.2
+3,Esmeraldas,Facilities,8.5
+3,Esmeraldas,Cleanliness,8.9
+3,Esmeraldas,Comfort,8.7
+3,Esmeraldas,Value for money,8.6
+3,Esmeraldas,Location,9.4
+3,Esmeraldas,Free WiFi,8.5
+4,Esmeraldas,Staff,9.0
+4,Esmeraldas,Facilities,9.2
+4,Esmeraldas,Cleanliness,9.3
+4,Esmeraldas,Comfort,9.3
+4,Esmeraldas,Value for money,8.9
+4,Esmeraldas,Location,9.4
+4,Esmeraldas,Free WiFi,7.9
+5,Esmeraldas,Staff,8.9
+5,Esmeraldas,Facilities,9.1
+5,Esmeraldas,Cleanliness,9.3
+5,Esmeraldas,Comfort,9.3
+5,Esmeraldas,Value for money,9.0
+5,Esmeraldas,Location,8.6
+6,Esmeraldas,Staff,8.7
+6,Esmeraldas,Facilities,8.7
+6,Esmeraldas,Cleanliness,8.8
+6,Esmeraldas,Comfort,9.0
+6,Esmeraldas,Value for money,8.2
+6,Esmeraldas,Location,7.9
+6,Esmeraldas,Free WiFi,7.5
+7,Esmeraldas,Staff,9.5
+7,Esmeraldas,Facilities,8.8
+7,Esmeraldas,Cleanliness,8.9
+7,Esmeraldas,Comfort,9.2
+7,Esmeraldas,Value for money,9.1
+7,Esmeraldas,Location,8.9
+7,Esmeraldas,Free WiFi,6.4
+8,Esmeraldas,Staff,9.2
+8,Esmeraldas,Facilities,8.6
+8,Esmeraldas,Cleanliness,9.0
+8,Esmeraldas,Comfort,8.8
+8,Esmeraldas,Value for money,8.5
+8,Esmeraldas,Location,7.9
+8,Esmeraldas,Free WiFi,7.2
+9,Esmeraldas,Staff,9.3
+9,Esmeraldas,Facilities,9.4
+9,Esmeraldas,Cleanliness,9.4
+9,Esmeraldas,Comfort,9.5
+9,Esmeraldas,Value for money,9.2
+9,Esmeraldas,Location,9.8
+10,Esmeraldas,Staff,8.7
+10,Esmeraldas,Facilities,8.7
+10,Esmeraldas,Cleanliness,8.9
+10,Esmeraldas,Comfort,8.9
+10,Esmeraldas,Value for money,8.5
+10,Esmeraldas,Location,8.6
+10,Esmeraldas,Free WiFi,7.5
+11,Esmeraldas,Staff,9.2
+11,Esmeraldas,Facilities,8.5
+11,Esmeraldas,Cleanliness,8.9
+11,Esmeraldas,Comfort,8.9
+11,Esmeraldas,Value for money,8.7
+11,Esmeraldas,Location,9.5
+11,Esmeraldas,Free WiFi,8.2
+12,Esmeraldas,Staff,8.8
+12,Esmeraldas,Facilities,7.9
+12,Esmeraldas,Cleanliness,8.7
+12,Esmeraldas,Comfort,8.4
+12,Esmeraldas,Value for money,7.3
+12,Esmeraldas,Location,8.6
+13,Esmeraldas,Staff,9.2
+13,Esmeraldas,Facilities,9.1
+13,Esmeraldas,Cleanliness,9.5
+13,Esmeraldas,Comfort,9.5
+13,Esmeraldas,Value for money,8.9
+13,Esmeraldas,Location,9.2
+13,Esmeraldas,Free WiFi,10
+14,Esmeraldas,Staff,9.2
+14,Esmeraldas,Facilities,8.6
+14,Esmeraldas,Cleanliness,8.9
+14,Esmeraldas,Comfort,9.0
+14,Esmeraldas,Value for money,8.7
+14,Esmeraldas,Location,9.6
+14,Esmeraldas,Free WiFi,7.5
+15,Esmeraldas,Staff,9.3
+15,Esmeraldas,Facilities,8.8
+15,Esmeraldas,Cleanliness,9.3
+15,Esmeraldas,Comfort,8.9
+15,Esmeraldas,Value for money,8.8
+15,Esmeraldas,Location,8.7
+15,Esmeraldas,Free WiFi,6.3
+16,Esmeraldas,Staff,8.7
+16,Esmeraldas,Facilities,8.4
+16,Esmeraldas,Cleanliness,9.0
+16,Esmeraldas,Comfort,9.0
+16,Esmeraldas,Value for money,8.0
+16,Esmeraldas,Location,9.0
+16,Esmeraldas,Free WiFi,7.2
+17,Esmeraldas,Staff,9.2
+17,Esmeraldas,Facilities,8.6
+17,Esmeraldas,Cleanliness,9.1
+17,Esmeraldas,Comfort,9.0
+17,Esmeraldas,Value for money,8.7
+17,Esmeraldas,Location,9.1
+17,Esmeraldas,Free WiFi,7.2
+18,Esmeraldas,Staff,10
+18,Esmeraldas,Facilities,9.4
+18,Esmeraldas,Cleanliness,10
+18,Esmeraldas,Comfort,10
+18,Esmeraldas,Value for money,9.7
+18,Esmeraldas,Location,10
+19,Esmeraldas,Staff,8.4
+19,Esmeraldas,Facilities,8.2
+19,Esmeraldas,Cleanliness,8.6
+19,Esmeraldas,Comfort,8.6
+19,Esmeraldas,Value for money,8.1
+19,Esmeraldas,Location,9.3
+19,Esmeraldas,Free WiFi,9.2
+20,Esmeraldas,"",""
+21,Esmeraldas,Staff,8.9
+21,Esmeraldas,Facilities,8.6
+21,Esmeraldas,Cleanliness,8.8
+21,Esmeraldas,Comfort,8.6
+21,Esmeraldas,Value for money,8.3
+21,Esmeraldas,Location,9.4
+21,Esmeraldas,Free WiFi,8.8
+22,Esmeraldas,Staff,9.2
+22,Esmeraldas,Facilities,8.9
+22,Esmeraldas,Cleanliness,9.3
+22,Esmeraldas,Comfort,9.1
+22,Esmeraldas,Value for money,8.7
+22,Esmeraldas,Location,8.9
+22,Esmeraldas,Free WiFi,7.5
+23,Esmeraldas,Staff,8.6
+23,Esmeraldas,Facilities,8.9
+23,Esmeraldas,Cleanliness,8.9
+23,Esmeraldas,Comfort,8.9
+23,Esmeraldas,Value for money,8.9
+23,Esmeraldas,Location,6.7
+24,Esmeraldas,Staff,9.2
+24,Esmeraldas,Facilities,8.8
+24,Esmeraldas,Cleanliness,8.9
+24,Esmeraldas,Comfort,8.8
+24,Esmeraldas,Value for money,8.8
+24,Esmeraldas,Location,8.0
+24,Esmeraldas,Free WiFi,10
+25,Esmeraldas,Staff,8.7
+25,Esmeraldas,Facilities,8.7
+25,Esmeraldas,Cleanliness,8.6
+25,Esmeraldas,Comfort,8.8
+25,Esmeraldas,Value for money,8.1
+25,Esmeraldas,Location,9.0
+25,Esmeraldas,Free WiFi,5.2
+26,Esmeraldas,Staff,9.1
+26,Esmeraldas,Facilities,8.4
+26,Esmeraldas,Cleanliness,8.5
+26,Esmeraldas,Comfort,8.5
+26,Esmeraldas,Value for money,8.6
+26,Esmeraldas,Location,9.1
+26,Esmeraldas,Free WiFi,7.5
+27,Esmeraldas,Staff,9.4
+27,Esmeraldas,Facilities,8.9
+27,Esmeraldas,Cleanliness,9.2
+27,Esmeraldas,Comfort,9.1
+27,Esmeraldas,Value for money,8.6
+27,Esmeraldas,Location,9.5
+27,Esmeraldas,Free WiFi,7.9
+28,Esmeraldas,Staff,9.2
+28,Esmeraldas,Facilities,8.5
+28,Esmeraldas,Cleanliness,8.9
+28,Esmeraldas,Comfort,8.7
+28,Esmeraldas,Value for money,8.6
+28,Esmeraldas,Location,9.4
+28,Esmeraldas,Free WiFi,8.5
+29,Esmeraldas,Staff,9.0
+29,Esmeraldas,Facilities,9.2
+29,Esmeraldas,Cleanliness,9.3
+29,Esmeraldas,Comfort,9.3
+29,Esmeraldas,Value for money,8.9
+29,Esmeraldas,Location,9.4
+29,Esmeraldas,Free WiFi,7.9
+30,Esmeraldas,Staff,8.9
+30,Esmeraldas,Facilities,9.1
+30,Esmeraldas,Cleanliness,9.3
+30,Esmeraldas,Comfort,9.3
+30,Esmeraldas,Value for money,9.0
+30,Esmeraldas,Location,8.6
+31,Esmeraldas,Staff,8.7
+31,Esmeraldas,Facilities,8.7
+31,Esmeraldas,Cleanliness,8.8
+31,Esmeraldas,Comfort,9.0
+31,Esmeraldas,Value for money,8.2
+31,Esmeraldas,Location,7.9
+31,Esmeraldas,Free WiFi,7.5
+32,Esmeraldas,Staff,9.5
+32,Esmeraldas,Facilities,8.8
+32,Esmeraldas,Cleanliness,8.9
+32,Esmeraldas,Comfort,9.2
+32,Esmeraldas,Value for money,9.1
+32,Esmeraldas,Location,8.9
+32,Esmeraldas,Free WiFi,6.4
+33,Esmeraldas,Staff,9.2
+33,Esmeraldas,Facilities,8.6
+33,Esmeraldas,Cleanliness,9.0
+33,Esmeraldas,Comfort,8.8
+33,Esmeraldas,Value for money,8.5
+33,Esmeraldas,Location,7.9
+33,Esmeraldas,Free WiFi,7.2
+34,Esmeraldas,Staff,9.3
+34,Esmeraldas,Facilities,9.4
+34,Esmeraldas,Cleanliness,9.4
+34,Esmeraldas,Comfort,9.5
+34,Esmeraldas,Value for money,9.2
+34,Esmeraldas,Location,9.8
+35,Esmeraldas,Staff,8.7
+35,Esmeraldas,Facilities,8.7
+35,Esmeraldas,Cleanliness,8.9
+35,Esmeraldas,Comfort,8.9
+35,Esmeraldas,Value for money,8.5
+35,Esmeraldas,Location,8.6
+35,Esmeraldas,Free WiFi,7.5
+36,Esmeraldas,Staff,9.2
+36,Esmeraldas,Facilities,8.5
+36,Esmeraldas,Cleanliness,8.9
+36,Esmeraldas,Comfort,8.9
+36,Esmeraldas,Value for money,8.7
+36,Esmeraldas,Location,9.5
+36,Esmeraldas,Free WiFi,8.2
+37,Esmeraldas,Staff,8.8
+37,Esmeraldas,Facilities,7.9
+37,Esmeraldas,Cleanliness,8.7
+37,Esmeraldas,Comfort,8.4
+37,Esmeraldas,Value for money,7.3
+37,Esmeraldas,Location,8.6
+38,Esmeraldas,Staff,9.2
+38,Esmeraldas,Facilities,9.1
+38,Esmeraldas,Cleanliness,9.5
+38,Esmeraldas,Comfort,9.5
+38,Esmeraldas,Value for money,8.9
+38,Esmeraldas,Location,9.2
+38,Esmeraldas,Free WiFi,10
+39,Esmeraldas,Staff,9.2
+39,Esmeraldas,Facilities,8.6
+39,Esmeraldas,Cleanliness,8.9
+39,Esmeraldas,Comfort,9.0
+39,Esmeraldas,Value for money,8.7
+39,Esmeraldas,Location,9.6
+39,Esmeraldas,Free WiFi,7.5
+40,Esmeraldas,Staff,9.3
+40,Esmeraldas,Facilities,8.8
+40,Esmeraldas,Cleanliness,9.3
+40,Esmeraldas,Comfort,8.9
+40,Esmeraldas,Value for money,8.8
+40,Esmeraldas,Location,8.7
+40,Esmeraldas,Free WiFi,6.3
+41,Esmeraldas,Staff,8.7
+41,Esmeraldas,Facilities,8.4
+41,Esmeraldas,Cleanliness,9.0
+41,Esmeraldas,Comfort,9.0
+41,Esmeraldas,Value for money,8.0
+41,Esmeraldas,Location,9.0
+41,Esmeraldas,Free WiFi,7.2
+42,Esmeraldas,Staff,9.2
+42,Esmeraldas,Facilities,8.6
+42,Esmeraldas,Cleanliness,9.1
+42,Esmeraldas,Comfort,9.0
+42,Esmeraldas,Value for money,8.7
+42,Esmeraldas,Location,9.1
+42,Esmeraldas,Free WiFi,7.2
+43,Esmeraldas,Staff,10
+43,Esmeraldas,Facilities,9.4
+43,Esmeraldas,Cleanliness,10
+43,Esmeraldas,Comfort,10
+43,Esmeraldas,Value for money,9.7
+43,Esmeraldas,Location,10
+44,Esmeraldas,Staff,8.4
+44,Esmeraldas,Facilities,8.2
+44,Esmeraldas,Cleanliness,8.6
+44,Esmeraldas,Comfort,8.6
+44,Esmeraldas,Value for money,8.1
+44,Esmeraldas,Location,9.3
+44,Esmeraldas,Free WiFi,9.2
+45,Esmeraldas,"",""
+46,Esmeraldas,Staff,8.9
+46,Esmeraldas,Facilities,8.6
+46,Esmeraldas,Cleanliness,8.8
+46,Esmeraldas,Comfort,8.6
+46,Esmeraldas,Value for money,8.3
+46,Esmeraldas,Location,9.4
+46,Esmeraldas,Free WiFi,8.8
+47,Esmeraldas,Staff,9.2
+47,Esmeraldas,Facilities,8.9
+47,Esmeraldas,Cleanliness,9.3
+47,Esmeraldas,Comfort,9.1
+47,Esmeraldas,Value for money,8.7
+47,Esmeraldas,Location,8.9
+47,Esmeraldas,Free WiFi,7.5
+48,Esmeraldas,Staff,8.6
+48,Esmeraldas,Facilities,8.9
+48,Esmeraldas,Cleanliness,8.9
+48,Esmeraldas,Comfort,8.9
+48,Esmeraldas,Value for money,8.9
+48,Esmeraldas,Location,6.7
+49,Esmeraldas,Staff,9.2
+49,Esmeraldas,Facilities,8.8
+49,Esmeraldas,Cleanliness,8.9
+49,Esmeraldas,Comfort,8.8
+49,Esmeraldas,Value for money,8.8
+49,Esmeraldas,Location,8.0
+49,Esmeraldas,Free WiFi,10
+50,Esmeraldas,Staff,8.7
+50,Esmeraldas,Facilities,8.7
+50,Esmeraldas,Cleanliness,8.6
+50,Esmeraldas,Comfort,8.8
+50,Esmeraldas,Value for money,8.1
+50,Esmeraldas,Location,9.0
+50,Esmeraldas,Free WiFi,5.2
+51,Esmeraldas,Staff,9.1
+51,Esmeraldas,Facilities,8.4
+51,Esmeraldas,Cleanliness,8.5
+51,Esmeraldas,Comfort,8.5
+51,Esmeraldas,Value for money,8.6
+51,Esmeraldas,Location,9.1
+51,Esmeraldas,Free WiFi,7.5
+52,Esmeraldas,Staff,9.4
+52,Esmeraldas,Facilities,8.9
+52,Esmeraldas,Cleanliness,9.2
+52,Esmeraldas,Comfort,9.1
+52,Esmeraldas,Value for money,8.6
+52,Esmeraldas,Location,9.5
+52,Esmeraldas,Free WiFi,7.9
+53,Esmeraldas,Staff,9.2
+53,Esmeraldas,Facilities,8.5
+53,Esmeraldas,Cleanliness,8.9
+53,Esmeraldas,Comfort,8.7
+53,Esmeraldas,Value for money,8.6
+53,Esmeraldas,Location,9.4
+53,Esmeraldas,Free WiFi,8.5
+54,Esmeraldas,Staff,9.0
+54,Esmeraldas,Facilities,9.2
+54,Esmeraldas,Cleanliness,9.3
+54,Esmeraldas,Comfort,9.3
+54,Esmeraldas,Value for money,8.9
+54,Esmeraldas,Location,9.4
+54,Esmeraldas,Free WiFi,7.9
+55,Esmeraldas,Staff,8.9
+55,Esmeraldas,Facilities,9.1
+55,Esmeraldas,Cleanliness,9.3
+55,Esmeraldas,Comfort,9.3
+55,Esmeraldas,Value for money,9.0
+55,Esmeraldas,Location,8.6
+56,Esmeraldas,Staff,8.7
+56,Esmeraldas,Facilities,8.7
+56,Esmeraldas,Cleanliness,8.8
+56,Esmeraldas,Comfort,9.0
+56,Esmeraldas,Value for money,8.2
+56,Esmeraldas,Location,7.9
+56,Esmeraldas,Free WiFi,7.5
+57,Esmeraldas,Staff,9.5
+57,Esmeraldas,Facilities,8.8
+57,Esmeraldas,Cleanliness,8.9
+57,Esmeraldas,Comfort,9.2
+57,Esmeraldas,Value for money,9.1
+57,Esmeraldas,Location,8.9
+57,Esmeraldas,Free WiFi,6.4
+58,Esmeraldas,Staff,9.2
+58,Esmeraldas,Facilities,8.6
+58,Esmeraldas,Cleanliness,9.0
+58,Esmeraldas,Comfort,8.8
+58,Esmeraldas,Value for money,8.5
+58,Esmeraldas,Location,7.9
+58,Esmeraldas,Free WiFi,7.2
+59,Esmeraldas,Staff,9.3
+59,Esmeraldas,Facilities,9.4
+59,Esmeraldas,Cleanliness,9.4
+59,Esmeraldas,Comfort,9.5
+59,Esmeraldas,Value for money,9.2
+59,Esmeraldas,Location,9.8
+60,Esmeraldas,Staff,8.7
+60,Esmeraldas,Facilities,8.7
+60,Esmeraldas,Cleanliness,8.9
+60,Esmeraldas,Comfort,8.9
+60,Esmeraldas,Value for money,8.5
+60,Esmeraldas,Location,8.6
+60,Esmeraldas,Free WiFi,7.5
+61,Esmeraldas,Staff,9.2
+61,Esmeraldas,Facilities,8.5
+61,Esmeraldas,Cleanliness,8.9
+61,Esmeraldas,Comfort,8.9
+61,Esmeraldas,Value for money,8.7
+61,Esmeraldas,Location,9.5
+61,Esmeraldas,Free WiFi,8.2
+62,Esmeraldas,Staff,8.8
+62,Esmeraldas,Facilities,7.9
+62,Esmeraldas,Cleanliness,8.7
+62,Esmeraldas,Comfort,8.4
+62,Esmeraldas,Value for money,7.3
+62,Esmeraldas,Location,8.6
+63,Esmeraldas,Staff,9.2
+63,Esmeraldas,Facilities,9.1
+63,Esmeraldas,Cleanliness,9.5
+63,Esmeraldas,Comfort,9.5
+63,Esmeraldas,Value for money,8.9
+63,Esmeraldas,Location,9.2
+63,Esmeraldas,Free WiFi,10
+64,Esmeraldas,Staff,9.2
+64,Esmeraldas,Facilities,8.6
+64,Esmeraldas,Cleanliness,8.9
+64,Esmeraldas,Comfort,9.0
+64,Esmeraldas,Value for money,8.7
+64,Esmeraldas,Location,9.6
+64,Esmeraldas,Free WiFi,7.5
+65,Esmeraldas,Staff,9.3
+65,Esmeraldas,Facilities,8.8
+65,Esmeraldas,Cleanliness,9.3
+65,Esmeraldas,Comfort,8.9
+65,Esmeraldas,Value for money,8.8
+65,Esmeraldas,Location,8.7
+65,Esmeraldas,Free WiFi,6.3
+66,Esmeraldas,Staff,8.7
+66,Esmeraldas,Facilities,8.4
+66,Esmeraldas,Cleanliness,9.0
+66,Esmeraldas,Comfort,9.0
+66,Esmeraldas,Value for money,8.0
+66,Esmeraldas,Location,9.0
+66,Esmeraldas,Free WiFi,7.2
+67,Esmeraldas,Staff,9.2
+67,Esmeraldas,Facilities,8.6
+67,Esmeraldas,Cleanliness,9.1
+67,Esmeraldas,Comfort,9.0
+67,Esmeraldas,Value for money,8.7
+67,Esmeraldas,Location,9.1
+67,Esmeraldas,Free WiFi,7.2
+68,Esmeraldas,Staff,10
+68,Esmeraldas,Facilities,9.4
+68,Esmeraldas,Cleanliness,10
+68,Esmeraldas,Comfort,10
+68,Esmeraldas,Value for money,9.7
+68,Esmeraldas,Location,10
+69,Esmeraldas,Staff,8.4
+69,Esmeraldas,Facilities,8.2
+69,Esmeraldas,Cleanliness,8.6
+69,Esmeraldas,Comfort,8.6
+69,Esmeraldas,Value for money,8.1
+69,Esmeraldas,Location,9.3
+69,Esmeraldas,Free WiFi,9.2
+70,Esmeraldas,"",""
+71,Esmeraldas,Staff,8.9
+71,Esmeraldas,Facilities,8.6
+71,Esmeraldas,Cleanliness,8.8
+71,Esmeraldas,Comfort,8.6
+71,Esmeraldas,Value for money,8.3
+71,Esmeraldas,Location,9.4
+71,Esmeraldas,Free WiFi,8.8
+72,Esmeraldas,Staff,9.2
+72,Esmeraldas,Facilities,8.9
+72,Esmeraldas,Cleanliness,9.3
+72,Esmeraldas,Comfort,9.1
+72,Esmeraldas,Value for money,8.7
+72,Esmeraldas,Location,8.9
+72,Esmeraldas,Free WiFi,7.5
+73,Esmeraldas,Staff,8.6
+73,Esmeraldas,Facilities,8.9
+73,Esmeraldas,Cleanliness,8.9
+73,Esmeraldas,Comfort,8.9
+73,Esmeraldas,Value for money,8.9
+73,Esmeraldas,Location,6.7
+74,Esmeraldas,Staff,9.2
+74,Esmeraldas,Facilities,8.8
+74,Esmeraldas,Cleanliness,8.9
+74,Esmeraldas,Comfort,8.8
+74,Esmeraldas,Value for money,8.8
+74,Esmeraldas,Location,8.0
+74,Esmeraldas,Free WiFi,10
+75,Esmeraldas,Staff,8.7
+75,Esmeraldas,Facilities,8.7
+75,Esmeraldas,Cleanliness,8.6
+75,Esmeraldas,Comfort,8.8
+75,Esmeraldas,Value for money,8.1
+75,Esmeraldas,Location,9.0
+75,Esmeraldas,Free WiFi,5.2
+1,Cuenca,Staff,8.8
+1,Cuenca,Facilities,8.2
+1,Cuenca,Cleanliness,8.5
+1,Cuenca,Comfort,8.5
+1,Cuenca,Value for money,8.3
+1,Cuenca,Location,8.9
+1,Cuenca,Free WiFi,7.8
+2,Cuenca,Staff,9.5
+2,Cuenca,Facilities,8.8
+2,Cuenca,Cleanliness,9.0
+2,Cuenca,Comfort,9.0
+2,Cuenca,Value for money,8.8
+2,Cuenca,Location,9.7
+2,Cuenca,Free WiFi,8.5
+3,Cuenca,Staff,8.9
+3,Cuenca,Facilities,8.6
+3,Cuenca,Cleanliness,9.0
+3,Cuenca,Comfort,8.9
+3,Cuenca,Value for money,8.8
+3,Cuenca,Location,9.1
+3,Cuenca,Free WiFi,8.0
+4,Cuenca,Staff,9.7
+4,Cuenca,Facilities,9.1
+4,Cuenca,Cleanliness,9.5
+4,Cuenca,Comfort,9.3
+4,Cuenca,Value for money,9.5
+4,Cuenca,Location,9.7
+4,Cuenca,Free WiFi,8.8
+5,Cuenca,Staff,9.5
+5,Cuenca,Facilities,8.7
+5,Cuenca,Cleanliness,9.1
+5,Cuenca,Comfort,8.9
+5,Cuenca,Value for money,9.0
+5,Cuenca,Location,9.8
+5,Cuenca,Free WiFi,8.8
+6,Cuenca,Staff,8.5
+6,Cuenca,Facilities,8.1
+6,Cuenca,Cleanliness,8.4
+6,Cuenca,Comfort,8.4
+6,Cuenca,Value for money,8.3
+6,Cuenca,Location,8.5
+6,Cuenca,Free WiFi,8.1
+7,Cuenca,Staff,8.7
+7,Cuenca,Facilities,8.5
+7,Cuenca,Cleanliness,8.7
+7,Cuenca,Comfort,8.6
+7,Cuenca,Value for money,8.3
+7,Cuenca,Location,9.4
+7,Cuenca,Free WiFi,8.8
+8,Cuenca,Staff,9.5
+8,Cuenca,Facilities,8.8
+8,Cuenca,Cleanliness,9.2
+8,Cuenca,Comfort,9.0
+8,Cuenca,Value for money,8.9
+8,Cuenca,Location,9.7
+8,Cuenca,Free WiFi,8.0
+9,Cuenca,Staff,9.3
+9,Cuenca,Facilities,8.8
+9,Cuenca,Cleanliness,8.9
+9,Cuenca,Comfort,9.1
+9,Cuenca,Value for money,8.6
+9,Cuenca,Location,9.1
+9,Cuenca,Free WiFi,8.2
+10,Cuenca,Staff,9.7
+10,Cuenca,Facilities,9.3
+10,Cuenca,Cleanliness,9.6
+10,Cuenca,Comfort,9.4
+10,Cuenca,Value for money,9.1
+10,Cuenca,Location,9.7
+10,Cuenca,Free WiFi,9.3
+11,Cuenca,Staff,9.2
+11,Cuenca,Facilities,8.4
+11,Cuenca,Cleanliness,8.9
+11,Cuenca,Comfort,8.6
+11,Cuenca,Value for money,8.8
+11,Cuenca,Location,8.9
+11,Cuenca,Free WiFi,7.5
+12,Cuenca,Staff,9.3
+12,Cuenca,Facilities,9.5
+12,Cuenca,Cleanliness,9.6
+12,Cuenca,Comfort,9.6
+12,Cuenca,Value for money,9.5
+12,Cuenca,Location,9.6
+12,Cuenca,Free WiFi,8.9
+13,Cuenca,Staff,8.9
+13,Cuenca,Facilities,8.5
+13,Cuenca,Cleanliness,9.0
+13,Cuenca,Comfort,8.9
+13,Cuenca,Value for money,8.7
+13,Cuenca,Location,9.5
+13,Cuenca,Free WiFi,5.8
+14,Cuenca,"",""
+15,Cuenca,Staff,9.3
+15,Cuenca,Facilities,9.2
+15,Cuenca,Cleanliness,9.3
+15,Cuenca,Comfort,9.3
+15,Cuenca,Value for money,8.8
+15,Cuenca,Location,9.0
+15,Cuenca,Free WiFi,8.4
+16,Cuenca,Staff,8.5
+16,Cuenca,Facilities,8.4
+16,Cuenca,Cleanliness,8.8
+16,Cuenca,Comfort,8.8
+16,Cuenca,Value for money,8.8
+16,Cuenca,Location,9.0
+16,Cuenca,Free WiFi,7.9
+17,Cuenca,Staff,8.9
+17,Cuenca,Facilities,9.2
+17,Cuenca,Cleanliness,9.3
+17,Cuenca,Comfort,9.2
+17,Cuenca,Value for money,8.5
+17,Cuenca,Location,9.2
+17,Cuenca,Free WiFi,7.4
+18,Cuenca,Staff,9.3
+18,Cuenca,Facilities,9.0
+18,Cuenca,Cleanliness,9.0
+18,Cuenca,Comfort,9.0
+18,Cuenca,Value for money,9.3
+18,Cuenca,Location,8.5
+18,Cuenca,Free WiFi,9.0
+19,Cuenca,Staff,9.9
+19,Cuenca,Facilities,9.5
+19,Cuenca,Cleanliness,9.8
+19,Cuenca,Comfort,9.6
+19,Cuenca,Value for money,9.0
+19,Cuenca,Location,9.7
+19,Cuenca,Free WiFi,9.2
+20,Cuenca,Staff,9.3
+20,Cuenca,Facilities,9.1
+20,Cuenca,Cleanliness,9.5
+20,Cuenca,Comfort,9.3
+20,Cuenca,Value for money,9.1
+20,Cuenca,Location,9.3
+20,Cuenca,Free WiFi,6.2
+21,Cuenca,Staff,9.5
+21,Cuenca,Facilities,9.0
+21,Cuenca,Cleanliness,9.1
+21,Cuenca,Comfort,8.9
+21,Cuenca,Value for money,8.9
+21,Cuenca,Location,9.5
+21,Cuenca,Free WiFi,9.4
+22,Cuenca,Staff,9.2
+22,Cuenca,Facilities,9.0
+22,Cuenca,Cleanliness,9.3
+22,Cuenca,Comfort,9.4
+22,Cuenca,Value for money,8.8
+22,Cuenca,Location,9.5
+22,Cuenca,Free WiFi,8.9
+23,Cuenca,Staff,8.4
+23,Cuenca,Facilities,7.4
+23,Cuenca,Cleanliness,8.0
+23,Cuenca,Comfort,7.7
+23,Cuenca,Value for money,8.4
+23,Cuenca,Location,9.5
+23,Cuenca,Free WiFi,7.3
+24,Cuenca,Staff,9.0
+24,Cuenca,Facilities,8.9
+24,Cuenca,Cleanliness,9.1
+24,Cuenca,Comfort,9.2
+24,Cuenca,Value for money,8.6
+24,Cuenca,Location,9.4
+24,Cuenca,Free WiFi,6.5
+25,Cuenca,Staff,8.3
+25,Cuenca,Facilities,7.5
+25,Cuenca,Cleanliness,8.0
+25,Cuenca,Comfort,7.9
+25,Cuenca,Value for money,7.6
+25,Cuenca,Location,9.0
+25,Cuenca,Free WiFi,7.5
+26,Cuenca,Staff,8.8
+26,Cuenca,Facilities,8.2
+26,Cuenca,Cleanliness,8.5
+26,Cuenca,Comfort,8.5
+26,Cuenca,Value for money,8.3
+26,Cuenca,Location,8.9
+26,Cuenca,Free WiFi,7.8
+27,Cuenca,Staff,9.5
+27,Cuenca,Facilities,8.8
+27,Cuenca,Cleanliness,9.0
+27,Cuenca,Comfort,9.0
+27,Cuenca,Value for money,8.8
+27,Cuenca,Location,9.7
+27,Cuenca,Free WiFi,8.5
+28,Cuenca,Staff,8.9
+28,Cuenca,Facilities,8.6
+28,Cuenca,Cleanliness,9.0
+28,Cuenca,Comfort,8.9
+28,Cuenca,Value for money,8.8
+28,Cuenca,Location,9.1
+28,Cuenca,Free WiFi,8.0
+29,Cuenca,Staff,9.7
+29,Cuenca,Facilities,9.1
+29,Cuenca,Cleanliness,9.5
+29,Cuenca,Comfort,9.3
+29,Cuenca,Value for money,9.5
+29,Cuenca,Location,9.7
+29,Cuenca,Free WiFi,8.8
+30,Cuenca,Staff,9.5
+30,Cuenca,Facilities,8.7
+30,Cuenca,Cleanliness,9.1
+30,Cuenca,Comfort,8.9
+30,Cuenca,Value for money,9.0
+30,Cuenca,Location,9.8
+30,Cuenca,Free WiFi,8.8
+31,Cuenca,Staff,8.5
+31,Cuenca,Facilities,8.1
+31,Cuenca,Cleanliness,8.4
+31,Cuenca,Comfort,8.4
+31,Cuenca,Value for money,8.3
+31,Cuenca,Location,8.5
+31,Cuenca,Free WiFi,8.1
+32,Cuenca,Staff,8.7
+32,Cuenca,Facilities,8.5
+32,Cuenca,Cleanliness,8.7
+32,Cuenca,Comfort,8.6
+32,Cuenca,Value for money,8.3
+32,Cuenca,Location,9.4
+32,Cuenca,Free WiFi,8.8
+33,Cuenca,Staff,9.5
+33,Cuenca,Facilities,8.8
+33,Cuenca,Cleanliness,9.2
+33,Cuenca,Comfort,9.0
+33,Cuenca,Value for money,8.9
+33,Cuenca,Location,9.7
+33,Cuenca,Free WiFi,8.0
+34,Cuenca,Staff,9.3
+34,Cuenca,Facilities,8.8
+34,Cuenca,Cleanliness,8.9
+34,Cuenca,Comfort,9.1
+34,Cuenca,Value for money,8.6
+34,Cuenca,Location,9.1
+34,Cuenca,Free WiFi,8.2
+35,Cuenca,Staff,9.7
+35,Cuenca,Facilities,9.3
+35,Cuenca,Cleanliness,9.6
+35,Cuenca,Comfort,9.4
+35,Cuenca,Value for money,9.1
+35,Cuenca,Location,9.7
+35,Cuenca,Free WiFi,9.3
+36,Cuenca,Staff,9.2
+36,Cuenca,Facilities,8.4
+36,Cuenca,Cleanliness,8.9
+36,Cuenca,Comfort,8.6
+36,Cuenca,Value for money,8.8
+36,Cuenca,Location,8.9
+36,Cuenca,Free WiFi,7.5
+37,Cuenca,Staff,9.3
+37,Cuenca,Facilities,9.5
+37,Cuenca,Cleanliness,9.6
+37,Cuenca,Comfort,9.6
+37,Cuenca,Value for money,9.5
+37,Cuenca,Location,9.6
+37,Cuenca,Free WiFi,8.9
+38,Cuenca,Staff,8.9
+38,Cuenca,Facilities,8.5
+38,Cuenca,Cleanliness,9.0
+38,Cuenca,Comfort,8.9
+38,Cuenca,Value for money,8.7
+38,Cuenca,Location,9.5
+38,Cuenca,Free WiFi,5.8
+39,Cuenca,"",""
+40,Cuenca,Staff,9.3
+40,Cuenca,Facilities,9.2
+40,Cuenca,Cleanliness,9.3
+40,Cuenca,Comfort,9.3
+40,Cuenca,Value for money,8.8
+40,Cuenca,Location,9.0
+40,Cuenca,Free WiFi,8.4
+41,Cuenca,Staff,8.5
+41,Cuenca,Facilities,8.4
+41,Cuenca,Cleanliness,8.8
+41,Cuenca,Comfort,8.8
+41,Cuenca,Value for money,8.8
+41,Cuenca,Location,9.0
+41,Cuenca,Free WiFi,7.9
+42,Cuenca,Staff,8.9
+42,Cuenca,Facilities,9.2
+42,Cuenca,Cleanliness,9.3
+42,Cuenca,Comfort,9.2
+42,Cuenca,Value for money,8.5
+42,Cuenca,Location,9.2
+42,Cuenca,Free WiFi,7.4
+43,Cuenca,Staff,9.3
+43,Cuenca,Facilities,9.0
+43,Cuenca,Cleanliness,9.0
+43,Cuenca,Comfort,9.0
+43,Cuenca,Value for money,9.3
+43,Cuenca,Location,8.5
+43,Cuenca,Free WiFi,9.0
+44,Cuenca,Staff,9.9
+44,Cuenca,Facilities,9.5
+44,Cuenca,Cleanliness,9.8
+44,Cuenca,Comfort,9.6
+44,Cuenca,Value for money,9.0
+44,Cuenca,Location,9.7
+44,Cuenca,Free WiFi,9.2
+45,Cuenca,Staff,9.3
+45,Cuenca,Facilities,9.1
+45,Cuenca,Cleanliness,9.5
+45,Cuenca,Comfort,9.3
+45,Cuenca,Value for money,9.1
+45,Cuenca,Location,9.3
+45,Cuenca,Free WiFi,6.2
+46,Cuenca,Staff,9.5
+46,Cuenca,Facilities,9.0
+46,Cuenca,Cleanliness,9.1
+46,Cuenca,Comfort,8.9
+46,Cuenca,Value for money,8.9
+46,Cuenca,Location,9.5
+46,Cuenca,Free WiFi,9.4
+47,Cuenca,Staff,9.2
+47,Cuenca,Facilities,9.0
+47,Cuenca,Cleanliness,9.3
+47,Cuenca,Comfort,9.4
+47,Cuenca,Value for money,8.8
+47,Cuenca,Location,9.5
+47,Cuenca,Free WiFi,8.9
+48,Cuenca,Staff,8.4
+48,Cuenca,Facilities,7.4
+48,Cuenca,Cleanliness,8.0
+48,Cuenca,Comfort,7.7
+48,Cuenca,Value for money,8.4
+48,Cuenca,Location,9.5
+48,Cuenca,Free WiFi,7.3
+49,Cuenca,Staff,9.0
+49,Cuenca,Facilities,8.9
+49,Cuenca,Cleanliness,9.1
+49,Cuenca,Comfort,9.2
+49,Cuenca,Value for money,8.6
+49,Cuenca,Location,9.4
+49,Cuenca,Free WiFi,6.5
+50,Cuenca,Staff,8.3
+50,Cuenca,Facilities,7.5
+50,Cuenca,Cleanliness,8.0
+50,Cuenca,Comfort,7.9
+50,Cuenca,Value for money,7.6
+50,Cuenca,Location,9.0
+50,Cuenca,Free WiFi,7.5
+51,Cuenca,Staff,8.8
+51,Cuenca,Facilities,8.2
+51,Cuenca,Cleanliness,8.5
+51,Cuenca,Comfort,8.5
+51,Cuenca,Value for money,8.3
+51,Cuenca,Location,8.9
+51,Cuenca,Free WiFi,7.8
+52,Cuenca,Staff,9.5
+52,Cuenca,Facilities,8.8
+52,Cuenca,Cleanliness,9.0
+52,Cuenca,Comfort,9.0
+52,Cuenca,Value for money,8.8
+52,Cuenca,Location,9.7
+52,Cuenca,Free WiFi,8.5
+53,Cuenca,Staff,8.9
+53,Cuenca,Facilities,8.6
+53,Cuenca,Cleanliness,9.0
+53,Cuenca,Comfort,8.9
+53,Cuenca,Value for money,8.8
+53,Cuenca,Location,9.1
+53,Cuenca,Free WiFi,8.0
+54,Cuenca,Staff,9.7
+54,Cuenca,Facilities,9.1
+54,Cuenca,Cleanliness,9.5
+54,Cuenca,Comfort,9.3
+54,Cuenca,Value for money,9.5
+54,Cuenca,Location,9.7
+54,Cuenca,Free WiFi,8.8
+55,Cuenca,Staff,9.5
+55,Cuenca,Facilities,8.7
+55,Cuenca,Cleanliness,9.1
+55,Cuenca,Comfort,8.9
+55,Cuenca,Value for money,9.0
+55,Cuenca,Location,9.8
+55,Cuenca,Free WiFi,8.8
+56,Cuenca,Staff,8.5
+56,Cuenca,Facilities,8.1
+56,Cuenca,Cleanliness,8.4
+56,Cuenca,Comfort,8.4
+56,Cuenca,Value for money,8.3
+56,Cuenca,Location,8.5
+56,Cuenca,Free WiFi,8.1
+57,Cuenca,Staff,8.7
+57,Cuenca,Facilities,8.5
+57,Cuenca,Cleanliness,8.7
+57,Cuenca,Comfort,8.6
+57,Cuenca,Value for money,8.3
+57,Cuenca,Location,9.4
+57,Cuenca,Free WiFi,8.8
+58,Cuenca,Staff,9.5
+58,Cuenca,Facilities,8.8
+58,Cuenca,Cleanliness,9.2
+58,Cuenca,Comfort,9.0
+58,Cuenca,Value for money,8.9
+58,Cuenca,Location,9.7
+58,Cuenca,Free WiFi,8.0
+59,Cuenca,Staff,9.3
+59,Cuenca,Facilities,8.8
+59,Cuenca,Cleanliness,8.9
+59,Cuenca,Comfort,9.1
+59,Cuenca,Value for money,8.6
+59,Cuenca,Location,9.1
+59,Cuenca,Free WiFi,8.2
+60,Cuenca,Staff,9.7
+60,Cuenca,Facilities,9.3
+60,Cuenca,Cleanliness,9.6
+60,Cuenca,Comfort,9.4
+60,Cuenca,Value for money,9.1
+60,Cuenca,Location,9.7
+60,Cuenca,Free WiFi,9.3
+61,Cuenca,Staff,9.2
+61,Cuenca,Facilities,8.4
+61,Cuenca,Cleanliness,8.9
+61,Cuenca,Comfort,8.6
+61,Cuenca,Value for money,8.8
+61,Cuenca,Location,8.9
+61,Cuenca,Free WiFi,7.5
+62,Cuenca,Staff,9.3
+62,Cuenca,Facilities,9.5
+62,Cuenca,Cleanliness,9.6
+62,Cuenca,Comfort,9.6
+62,Cuenca,Value for money,9.5
+62,Cuenca,Location,9.6
+62,Cuenca,Free WiFi,8.9
+63,Cuenca,Staff,8.9
+63,Cuenca,Facilities,8.5
+63,Cuenca,Cleanliness,9.0
+63,Cuenca,Comfort,8.9
+63,Cuenca,Value for money,8.7
+63,Cuenca,Location,9.5
+63,Cuenca,Free WiFi,5.8
+64,Cuenca,"",""
+65,Cuenca,Staff,9.3
+65,Cuenca,Facilities,9.2
+65,Cuenca,Cleanliness,9.3
+65,Cuenca,Comfort,9.3
+65,Cuenca,Value for money,8.8
+65,Cuenca,Location,9.0
+65,Cuenca,Free WiFi,8.4
+66,Cuenca,Staff,8.5
+66,Cuenca,Facilities,8.4
+66,Cuenca,Cleanliness,8.8
+66,Cuenca,Comfort,8.8
+66,Cuenca,Value for money,8.8
+66,Cuenca,Location,9.0
+66,Cuenca,Free WiFi,7.9
+67,Cuenca,Staff,8.9
+67,Cuenca,Facilities,9.2
+67,Cuenca,Cleanliness,9.3
+67,Cuenca,Comfort,9.2
+67,Cuenca,Value for money,8.5
+67,Cuenca,Location,9.2
+67,Cuenca,Free WiFi,7.4
+68,Cuenca,Staff,9.3
+68,Cuenca,Facilities,9.0
+68,Cuenca,Cleanliness,9.0
+68,Cuenca,Comfort,9.0
+68,Cuenca,Value for money,9.3
+68,Cuenca,Location,8.5
+68,Cuenca,Free WiFi,9.0
+69,Cuenca,Staff,9.9
+69,Cuenca,Facilities,9.5
+69,Cuenca,Cleanliness,9.8
+69,Cuenca,Comfort,9.6
+69,Cuenca,Value for money,9.0
+69,Cuenca,Location,9.7
+69,Cuenca,Free WiFi,9.2
+70,Cuenca,Staff,9.3
+70,Cuenca,Facilities,9.1
+70,Cuenca,Cleanliness,9.5
+70,Cuenca,Comfort,9.3
+70,Cuenca,Value for money,9.1
+70,Cuenca,Location,9.3
+70,Cuenca,Free WiFi,6.2
+71,Cuenca,Staff,9.5
+71,Cuenca,Facilities,9.0
+71,Cuenca,Cleanliness,9.1
+71,Cuenca,Comfort,8.9
+71,Cuenca,Value for money,8.9
+71,Cuenca,Location,9.5
+71,Cuenca,Free WiFi,9.4
+72,Cuenca,Staff,9.2
+72,Cuenca,Facilities,9.0
+72,Cuenca,Cleanliness,9.3
+72,Cuenca,Comfort,9.4
+72,Cuenca,Value for money,8.8
+72,Cuenca,Location,9.5
+72,Cuenca,Free WiFi,8.9
+73,Cuenca,Staff,8.4
+73,Cuenca,Facilities,7.4
+73,Cuenca,Cleanliness,8.0
+73,Cuenca,Comfort,7.7
+73,Cuenca,Value for money,8.4
+73,Cuenca,Location,9.5
+73,Cuenca,Free WiFi,7.3
+74,Cuenca,Staff,9.0
+74,Cuenca,Facilities,8.9
+74,Cuenca,Cleanliness,9.1
+74,Cuenca,Comfort,9.2
+74,Cuenca,Value for money,8.6
+74,Cuenca,Location,9.4
+74,Cuenca,Free WiFi,6.5
+75,Cuenca,Staff,8.3
+75,Cuenca,Facilities,7.5
+75,Cuenca,Cleanliness,8.0
+75,Cuenca,Comfort,7.9
+75,Cuenca,Value for money,7.6
+75,Cuenca,Location,9.0
+75,Cuenca,Free WiFi,7.5
+1,Quito,Staff,9.3
+1,Quito,Facilities,8.6
+1,Quito,Cleanliness,8.9
+1,Quito,Comfort,8.8
+1,Quito,Value for money,9.0
+1,Quito,Location,8.8
+1,Quito,Free WiFi,8.6
+2,Quito,Staff,9.3
+2,Quito,Facilities,8.1
+2,Quito,Cleanliness,8.6
+2,Quito,Comfort,8.5
+2,Quito,Value for money,8.6
+2,Quito,Location,9.1
+2,Quito,Free WiFi,8.6
+4,Quito,Staff,9.2
+4,Quito,Facilities,8.9
+4,Quito,Cleanliness,9.1
+4,Quito,Comfort,9.0
+4,Quito,Value for money,8.9
+4,Quito,Location,9.2
+4,Quito,Free WiFi,8.6
+5,Quito,"",""
+6,Quito,Staff,9.0
+6,Quito,Facilities,8.0
+6,Quito,Cleanliness,8.5
+6,Quito,Comfort,8.4
+6,Quito,Value for money,8.2
+6,Quito,Location,8.6
+6,Quito,Free WiFi,8.7
+7,Quito,Staff,9.1
+7,Quito,Facilities,7.8
+7,Quito,Cleanliness,8.4
+7,Quito,Comfort,8.0
+7,Quito,Value for money,8.5
+7,Quito,Location,8.2
+7,Quito,Free WiFi,5.8
+8,Quito,"",""
+9,Quito,Staff,9.3
+9,Quito,Facilities,8.9
+9,Quito,Cleanliness,9.3
+9,Quito,Comfort,9.3
+9,Quito,Value for money,8.8
+9,Quito,Location,9.4
+9,Quito,Free WiFi,8.9
+10,Quito,"",""
+11,Quito,Staff,9.8
+11,Quito,Facilities,9.2
+11,Quito,Cleanliness,9.5
+11,Quito,Comfort,9.3
+11,Quito,Value for money,9.5
+11,Quito,Location,9.3
+11,Quito,Free WiFi,9.6
+12,Quito,Staff,9.4
+12,Quito,Facilities,8.0
+12,Quito,Cleanliness,8.3
+12,Quito,Comfort,8.1
+12,Quito,Value for money,9.1
+12,Quito,Location,9.5
+12,Quito,Free WiFi,8.1
+14,Quito,Staff,9.2
+14,Quito,Facilities,9.0
+14,Quito,Cleanliness,9.3
+14,Quito,Comfort,9.2
+14,Quito,Value for money,8.9
+14,Quito,Location,8.8
+14,Quito,Free WiFi,8.4
+15,Quito,"",""
+17,Quito,Staff,9.9
+17,Quito,Facilities,9.7
+17,Quito,Cleanliness,9.8
+17,Quito,Comfort,9.8
+17,Quito,Value for money,9.7
+17,Quito,Location,9.1
+17,Quito,Free WiFi,9.3
+18,Quito,Staff,8.8
+18,Quito,Facilities,8.1
+18,Quito,Cleanliness,8.7
+18,Quito,Comfort,8.3
+18,Quito,Value for money,9.1
+18,Quito,Location,9.2
+18,Quito,Free WiFi,8.9
+19,Quito,"",""
+20,Quito,Staff,9.0
+20,Quito,Facilities,9.0
+20,Quito,Cleanliness,9.3
+20,Quito,Comfort,9.1
+20,Quito,Value for money,8.9
+20,Quito,Location,9.3
+20,Quito,Free WiFi,8.8
+21,Quito,Staff,9.5
+21,Quito,Facilities,8.6
+21,Quito,Cleanliness,9.1
+21,Quito,Comfort,8.9
+21,Quito,Value for money,8.8
+21,Quito,Location,8.9
+21,Quito,Free WiFi,9.0
+22,Quito,Staff,8.9
+22,Quito,Facilities,8.7
+22,Quito,Cleanliness,9.0
+22,Quito,Comfort,9.0
+22,Quito,Value for money,8.9
+22,Quito,Location,9.1
+22,Quito,Free WiFi,8.0
+23,Quito,Staff,9.7
+23,Quito,Facilities,9.4
+23,Quito,Cleanliness,9.6
+23,Quito,Comfort,9.6
+23,Quito,Value for money,9.2
+23,Quito,Location,9.0
+23,Quito,Free WiFi,9.5
+24,Quito,Staff,9.2
+24,Quito,Facilities,8.0
+24,Quito,Cleanliness,8.5
+24,Quito,Comfort,8.4
+24,Quito,Value for money,8.5
+24,Quito,Location,9.0
+24,Quito,Free WiFi,10
+25,Quito,Staff,8.8
+25,Quito,Facilities,8.8
+25,Quito,Cleanliness,9.1
+25,Quito,Comfort,9.2
+25,Quito,Value for money,8.4
+25,Quito,Location,9.5
+25,Quito,Free WiFi,8.4
+26,Quito,Staff,9.3
+26,Quito,Facilities,8.6
+26,Quito,Cleanliness,8.9
+26,Quito,Comfort,8.8
+26,Quito,Value for money,9.0
+26,Quito,Location,8.8
+26,Quito,Free WiFi,8.6
+27,Quito,Staff,9.3
+27,Quito,Facilities,8.1
+27,Quito,Cleanliness,8.6
+27,Quito,Comfort,8.5
+27,Quito,Value for money,8.6
+27,Quito,Location,9.1
+27,Quito,Free WiFi,8.6
+29,Quito,Staff,9.2
+29,Quito,Facilities,8.9
+29,Quito,Cleanliness,9.1
+29,Quito,Comfort,9.0
+29,Quito,Value for money,8.9
+29,Quito,Location,9.2
+29,Quito,Free WiFi,8.6
+30,Quito,"",""
+31,Quito,Staff,9.0
+31,Quito,Facilities,8.0
+31,Quito,Cleanliness,8.5
+31,Quito,Comfort,8.4
+31,Quito,Value for money,8.2
+31,Quito,Location,8.6
+31,Quito,Free WiFi,8.7
+32,Quito,Staff,9.1
+32,Quito,Facilities,7.8
+32,Quito,Cleanliness,8.4
+32,Quito,Comfort,8.0
+32,Quito,Value for money,8.5
+32,Quito,Location,8.2
+32,Quito,Free WiFi,5.8
+33,Quito,"",""
+34,Quito,Staff,9.3
+34,Quito,Facilities,8.9
+34,Quito,Cleanliness,9.3
+34,Quito,Comfort,9.3
+34,Quito,Value for money,8.8
+34,Quito,Location,9.4
+34,Quito,Free WiFi,8.9
+35,Quito,"",""
+36,Quito,Staff,9.8
+36,Quito,Facilities,9.2
+36,Quito,Cleanliness,9.5
+36,Quito,Comfort,9.3
+36,Quito,Value for money,9.5
+36,Quito,Location,9.3
+36,Quito,Free WiFi,9.6
+37,Quito,Staff,9.4
+37,Quito,Facilities,8.0
+37,Quito,Cleanliness,8.3
+37,Quito,Comfort,8.1
+37,Quito,Value for money,9.1
+37,Quito,Location,9.5
+37,Quito,Free WiFi,8.1
+39,Quito,Staff,9.2
+39,Quito,Facilities,9.0
+39,Quito,Cleanliness,9.3
+39,Quito,Comfort,9.2
+39,Quito,Value for money,8.9
+39,Quito,Location,8.8
+39,Quito,Free WiFi,8.4
+40,Quito,"",""
+42,Quito,Staff,9.9
+42,Quito,Facilities,9.7
+42,Quito,Cleanliness,9.8
+42,Quito,Comfort,9.8
+42,Quito,Value for money,9.7
+42,Quito,Location,9.1
+42,Quito,Free WiFi,9.3
+43,Quito,Staff,8.8
+43,Quito,Facilities,8.1
+43,Quito,Cleanliness,8.7
+43,Quito,Comfort,8.3
+43,Quito,Value for money,9.1
+43,Quito,Location,9.2
+43,Quito,Free WiFi,8.9
+44,Quito,"",""
+45,Quito,Staff,9.0
+45,Quito,Facilities,9.0
+45,Quito,Cleanliness,9.3
+45,Quito,Comfort,9.1
+45,Quito,Value for money,8.9
+45,Quito,Location,9.3
+45,Quito,Free WiFi,8.8
+46,Quito,Staff,9.5
+46,Quito,Facilities,8.6
+46,Quito,Cleanliness,9.1
+46,Quito,Comfort,8.9
+46,Quito,Value for money,8.8
+46,Quito,Location,8.9
+46,Quito,Free WiFi,9.0
+47,Quito,Staff,8.9
+47,Quito,Facilities,8.7
+47,Quito,Cleanliness,9.0
+47,Quito,Comfort,9.0
+47,Quito,Value for money,8.9
+47,Quito,Location,9.1
+47,Quito,Free WiFi,8.0
+48,Quito,Staff,9.7
+48,Quito,Facilities,9.4
+48,Quito,Cleanliness,9.6
+48,Quito,Comfort,9.6
+48,Quito,Value for money,9.2
+48,Quito,Location,9.0
+48,Quito,Free WiFi,9.5
+49,Quito,Staff,9.2
+49,Quito,Facilities,8.0
+49,Quito,Cleanliness,8.5
+49,Quito,Comfort,8.4
+49,Quito,Value for money,8.5
+49,Quito,Location,9.0
+49,Quito,Free WiFi,10
+50,Quito,Staff,8.8
+50,Quito,Facilities,8.8
+50,Quito,Cleanliness,9.1
+50,Quito,Comfort,9.2
+50,Quito,Value for money,8.4
+50,Quito,Location,9.5
+50,Quito,Free WiFi,8.4
+51,Quito,Staff,9.3
+51,Quito,Facilities,8.6
+51,Quito,Cleanliness,8.9
+51,Quito,Comfort,8.8
+51,Quito,Value for money,9.0
+51,Quito,Location,8.8
+51,Quito,Free WiFi,8.6
+52,Quito,Staff,9.3
+52,Quito,Facilities,8.1
+52,Quito,Cleanliness,8.6
+52,Quito,Comfort,8.5
+52,Quito,Value for money,8.6
+52,Quito,Location,9.1
+52,Quito,Free WiFi,8.6
+54,Quito,Staff,9.2
+54,Quito,Facilities,8.9
+54,Quito,Cleanliness,9.1
+54,Quito,Comfort,9.0
+54,Quito,Value for money,8.9
+54,Quito,Location,9.2
+54,Quito,Free WiFi,8.6
+55,Quito,"",""
+56,Quito,Staff,9.0
+56,Quito,Facilities,8.0
+56,Quito,Cleanliness,8.5
+56,Quito,Comfort,8.4
+56,Quito,Value for money,8.2
+56,Quito,Location,8.6
+56,Quito,Free WiFi,8.7
+57,Quito,Staff,9.1
+57,Quito,Facilities,7.8
+57,Quito,Cleanliness,8.4
+57,Quito,Comfort,8.0
+57,Quito,Value for money,8.5
+57,Quito,Location,8.2
+57,Quito,Free WiFi,5.8
+58,Quito,"",""
+59,Quito,Staff,9.3
+59,Quito,Facilities,8.9
+59,Quito,Cleanliness,9.3
+59,Quito,Comfort,9.3
+59,Quito,Value for money,8.8
+59,Quito,Location,9.4
+59,Quito,Free WiFi,8.9
+60,Quito,"",""
+61,Quito,Staff,9.8
+61,Quito,Facilities,9.2
+61,Quito,Cleanliness,9.5
+61,Quito,Comfort,9.3
+61,Quito,Value for money,9.5
+61,Quito,Location,9.3
+61,Quito,Free WiFi,9.6
+62,Quito,Staff,9.4
+62,Quito,Facilities,8.0
+62,Quito,Cleanliness,8.3
+62,Quito,Comfort,8.1
+62,Quito,Value for money,9.1
+62,Quito,Location,9.5
+62,Quito,Free WiFi,8.1
+64,Quito,Staff,9.2
+64,Quito,Facilities,9.0
+64,Quito,Cleanliness,9.3
+64,Quito,Comfort,9.2
+64,Quito,Value for money,8.9
+64,Quito,Location,8.8
+64,Quito,Free WiFi,8.4
+65,Quito,"",""
+id,provincia,categoria,score
+67,Quito,Staff,9.9
+67,Quito,Facilities,9.7
+67,Quito,Cleanliness,9.8
+67,Quito,Comfort,9.8
+67,Quito,Value for money,9.7
+67,Quito,Location,9.1
+67,Quito,Free WiFi,9.3
+68,Quito,Staff,8.8
+68,Quito,Facilities,8.1
+68,Quito,Cleanliness,8.7
+68,Quito,Comfort,8.3
+68,Quito,Value for money,9.1
+68,Quito,Location,9.2
+68,Quito,Free WiFi,8.9
+69,Quito,"",""
+70,Quito,Staff,9.0
+70,Quito,Facilities,9.0
+70,Quito,Cleanliness,9.3
+70,Quito,Comfort,9.1
+70,Quito,Value for money,8.9
+70,Quito,Location,9.3
+70,Quito,Free WiFi,8.8
+71,Quito,Staff,9.5
+71,Quito,Facilities,8.6
+71,Quito,Cleanliness,9.1
+71,Quito,Comfort,8.9
+71,Quito,Value for money,8.8
+71,Quito,Location,8.9
+71,Quito,Free WiFi,9.0
+72,Quito,Staff,8.9
+72,Quito,Facilities,8.7
+72,Quito,Cleanliness,9.0
+72,Quito,Comfort,9.0
+72,Quito,Value for money,8.9
+72,Quito,Location,9.1
+72,Quito,Free WiFi,8.0
+73,Quito,Staff,9.7
+73,Quito,Facilities,9.4
+73,Quito,Cleanliness,9.6
+73,Quito,Comfort,9.6
+73,Quito,Value for money,9.2
+73,Quito,Location,9.0
+73,Quito,Free WiFi,9.5
+74,Quito,Staff,9.2
+74,Quito,Facilities,8.0
+74,Quito,Cleanliness,8.5
+74,Quito,Comfort,8.4
+74,Quito,Value for money,8.5
+74,Quito,Location,9.0
+74,Quito,Free WiFi,10
+75,Quito,Staff,8.8
+75,Quito,Facilities,8.8
+75,Quito,Cleanliness,9.1
+75,Quito,Comfort,9.2
+75,Quito,Value for money,8.4
+75,Quito,Location,9.5
+75,Quito,Free WiFi,8.4
+1,Guayaquil,Staff,8.0
+1,Guayaquil,Facilities,7.3
+1,Guayaquil,Cleanliness,7.9
+1,Guayaquil,Comfort,7.7
+1,Guayaquil,Value for money,7.4
+1,Guayaquil,Location,8.5
+1,Guayaquil,Free WiFi,7.1
+2,Guayaquil,Staff,8.7
+2,Guayaquil,Facilities,7.8
+2,Guayaquil,Cleanliness,8.1
+2,Guayaquil,Comfort,8.1
+2,Guayaquil,Value for money,8.1
+2,Guayaquil,Location,9.3
+2,Guayaquil,Free WiFi,7.9
+4,Guayaquil,Staff,9.3
+4,Guayaquil,Facilities,8.9
+4,Guayaquil,Cleanliness,9.3
+4,Guayaquil,Comfort,9.1
+4,Guayaquil,Value for money,8.8
+4,Guayaquil,Location,8.9
+4,Guayaquil,Free WiFi,8.8
+5,Guayaquil,Staff,9.3
+5,Guayaquil,Facilities,9.1
+5,Guayaquil,Cleanliness,9.3
+5,Guayaquil,Comfort,9.3
+5,Guayaquil,Value for money,8.5
+5,Guayaquil,Location,9.4
+5,Guayaquil,Free WiFi,8.6
+6,Guayaquil,Staff,8.9
+6,Guayaquil,Facilities,8.5
+6,Guayaquil,Cleanliness,8.8
+6,Guayaquil,Comfort,8.8
+6,Guayaquil,Value for money,8.2
+6,Guayaquil,Location,9.4
+6,Guayaquil,Free WiFi,8.8
+7,Guayaquil,Staff,8.9
+7,Guayaquil,Facilities,8.6
+7,Guayaquil,Cleanliness,9.0
+7,Guayaquil,Comfort,9.0
+7,Guayaquil,Value for money,8.4
+7,Guayaquil,Location,9.2
+7,Guayaquil,Free WiFi,8.6
+8,Guayaquil,Staff,9.3
+8,Guayaquil,Facilities,8.8
+8,Guayaquil,Cleanliness,9.1
+8,Guayaquil,Comfort,9.1
+8,Guayaquil,Value for money,8.6
+8,Guayaquil,Location,9.2
+8,Guayaquil,Free WiFi,9.1
+id,provincia,categoria,score
+9,Guayaquil,Staff,9.2
+9,Guayaquil,Facilities,9.1
+9,Guayaquil,Cleanliness,9.3
+9,Guayaquil,Comfort,9.3
+9,Guayaquil,Value for money,8.4
+9,Guayaquil,Location,9.4
+9,Guayaquil,Free WiFi,8.8
+10,Guayaquil,Staff,9.0
+10,Guayaquil,Facilities,8.4
+10,Guayaquil,Cleanliness,8.8
+10,Guayaquil,Comfort,8.8
+10,Guayaquil,Value for money,8.5
+10,Guayaquil,Location,8.5
+10,Guayaquil,Free WiFi,8.4
+id,provincia,categoria,score
+11,Guayaquil,Staff,9.3
+11,Guayaquil,Facilities,9.1
+11,Guayaquil,Cleanliness,9.3
+11,Guayaquil,Comfort,9.4
+11,Guayaquil,Value for money,8.5
+11,Guayaquil,Location,9.5
+11,Guayaquil,Free WiFi,8.9
+12,Guayaquil,Staff,8.9
+12,Guayaquil,Facilities,8.4
+12,Guayaquil,Cleanliness,8.8
+12,Guayaquil,Comfort,8.5
+12,Guayaquil,Value for money,8.4
+12,Guayaquil,Location,8.4
+12,Guayaquil,Free WiFi,8.8
+13,Guayaquil,Staff,8.9
+13,Guayaquil,Facilities,7.6
+13,Guayaquil,Cleanliness,8.3
+13,Guayaquil,Comfort,8.0
+13,Guayaquil,Value for money,7.8
+13,Guayaquil,Location,9.1
+13,Guayaquil,Free WiFi,7.8
+14,Guayaquil,Staff,9.1
+14,Guayaquil,Facilities,8.7
+14,Guayaquil,Cleanliness,9.1
+14,Guayaquil,Comfort,9.1
+14,Guayaquil,Value for money,8.3
+14,Guayaquil,Location,9.4
+14,Guayaquil,Free WiFi,8.8
+15,Guayaquil,Staff,8.9
+15,Guayaquil,Facilities,8.0
+15,Guayaquil,Cleanliness,8.6
+15,Guayaquil,Comfort,8.4
+15,Guayaquil,Value for money,8.3
+15,Guayaquil,Location,8.6
+15,Guayaquil,Free WiFi,8.7
+16,Guayaquil,Staff,8.3
+16,Guayaquil,Facilities,7.7
+16,Guayaquil,Cleanliness,8.2
+16,Guayaquil,Comfort,8.0
+16,Guayaquil,Value for money,7.8
+16,Guayaquil,Location,8.9
+16,Guayaquil,Free WiFi,7.2
+17,Guayaquil,Staff,8.9
+17,Guayaquil,Facilities,8.5
+17,Guayaquil,Cleanliness,8.9
+17,Guayaquil,Comfort,8.8
+17,Guayaquil,Value for money,8.2
+17,Guayaquil,Location,8.8
+17,Guayaquil,Free WiFi,7.9
+18,Guayaquil,Staff,8.7
+18,Guayaquil,Facilities,8.8
+18,Guayaquil,Cleanliness,9.1
+18,Guayaquil,Comfort,9.2
+18,Guayaquil,Value for money,8.3
+18,Guayaquil,Location,9.1
+18,Guayaquil,Free WiFi,8.4
+19,Guayaquil,Staff,8.8
+19,Guayaquil,Facilities,8.3
+19,Guayaquil,Cleanliness,8.8
+19,Guayaquil,Comfort,8.8
+19,Guayaquil,Value for money,8.5
+19,Guayaquil,Location,9.0
+19,Guayaquil,Free WiFi,9.4
+20,Guayaquil,Staff,8.6
+20,Guayaquil,Facilities,7.8
+20,Guayaquil,Cleanliness,8.3
+20,Guayaquil,Comfort,8.3
+20,Guayaquil,Value for money,7.8
+20,Guayaquil,Location,9.1
+20,Guayaquil,Free WiFi,8.2
+21,Guayaquil,Staff,8.4
+21,Guayaquil,Facilities,8.4
+21,Guayaquil,Cleanliness,8.7
+21,Guayaquil,Comfort,8.8
+21,Guayaquil,Value for money,8.6
+21,Guayaquil,Location,8.4
+21,Guayaquil,Free WiFi,8.7
+22,Guayaquil,Staff,8.7
+22,Guayaquil,Facilities,8.3
+22,Guayaquil,Cleanliness,8.7
+22,Guayaquil,Comfort,8.6
+22,Guayaquil,Value for money,8.2
+22,Guayaquil,Location,8.7
+22,Guayaquil,Free WiFi,7.9
+23,Guayaquil,"",""
+24,Guayaquil,Staff,9.3
+24,Guayaquil,Facilities,8.5
+24,Guayaquil,Cleanliness,8.7
+24,Guayaquil,Comfort,8.8
+24,Guayaquil,Value for money,8.6
+24,Guayaquil,Location,9.4
+24,Guayaquil,Free WiFi,8.8
+25,Guayaquil,Staff,8.9
+25,Guayaquil,Facilities,7.9
+25,Guayaquil,Cleanliness,8.1
+25,Guayaquil,Comfort,8.1
+25,Guayaquil,Value for money,8.2
+25,Guayaquil,Location,9.4
+25,Guayaquil,Free WiFi,8.5
+26,Guayaquil,Staff,8.0
+26,Guayaquil,Facilities,7.3
+26,Guayaquil,Cleanliness,7.9
+26,Guayaquil,Comfort,7.7
+26,Guayaquil,Value for money,7.4
+26,Guayaquil,Location,8.5
+26,Guayaquil,Free WiFi,7.1
+27,Guayaquil,Staff,8.7
+27,Guayaquil,Facilities,7.8
+27,Guayaquil,Cleanliness,8.1
+27,Guayaquil,Comfort,8.1
+27,Guayaquil,Value for money,8.1
+27,Guayaquil,Location,9.3
+27,Guayaquil,Free WiFi,7.9
+29,Guayaquil,Staff,9.3
+29,Guayaquil,Facilities,8.9
+29,Guayaquil,Cleanliness,9.3
+29,Guayaquil,Comfort,9.1
+29,Guayaquil,Value for money,8.8
+29,Guayaquil,Location,8.9
+29,Guayaquil,Free WiFi,8.8
+30,Guayaquil,Staff,9.3
+30,Guayaquil,Facilities,9.1
+30,Guayaquil,Cleanliness,9.3
+30,Guayaquil,Comfort,9.3
+30,Guayaquil,Value for money,8.5
+30,Guayaquil,Location,9.4
+30,Guayaquil,Free WiFi,8.6
+31,Guayaquil,Staff,8.9
+31,Guayaquil,Facilities,8.5
+31,Guayaquil,Cleanliness,8.8
+31,Guayaquil,Comfort,8.8
+31,Guayaquil,Value for money,8.2
+31,Guayaquil,Location,9.4
+31,Guayaquil,Free WiFi,8.8
+32,Guayaquil,Staff,8.9
+32,Guayaquil,Facilities,8.6
+32,Guayaquil,Cleanliness,9.0
+32,Guayaquil,Comfort,9.0
+32,Guayaquil,Value for money,8.4
+32,Guayaquil,Location,9.2
+32,Guayaquil,Free WiFi,8.6
+33,Guayaquil,Staff,9.3
+33,Guayaquil,Facilities,8.8
+33,Guayaquil,Cleanliness,9.1
+33,Guayaquil,Comfort,9.1
+33,Guayaquil,Value for money,8.6
+33,Guayaquil,Location,9.2
+33,Guayaquil,Free WiFi,9.1
+id,provincia,categoria,score
+34,Guayaquil,Staff,9.2
+34,Guayaquil,Facilities,9.1
+34,Guayaquil,Cleanliness,9.3
+34,Guayaquil,Comfort,9.3
+34,Guayaquil,Value for money,8.4
+34,Guayaquil,Location,9.4
+34,Guayaquil,Free WiFi,8.8
+35,Guayaquil,Staff,9.0
+35,Guayaquil,Facilities,8.4
+35,Guayaquil,Cleanliness,8.8
+35,Guayaquil,Comfort,8.8
+35,Guayaquil,Value for money,8.5
+35,Guayaquil,Location,8.5
+35,Guayaquil,Free WiFi,8.4
+36,Guayaquil,Staff,9.3
+36,Guayaquil,Facilities,9.1
+36,Guayaquil,Cleanliness,9.3
+36,Guayaquil,Comfort,9.4
+36,Guayaquil,Value for money,8.5
+36,Guayaquil,Location,9.5
+36,Guayaquil,Free WiFi,8.9
+37,Guayaquil,Staff,8.9
+37,Guayaquil,Facilities,8.4
+37,Guayaquil,Cleanliness,8.8
+37,Guayaquil,Comfort,8.5
+37,Guayaquil,Value for money,8.4
+37,Guayaquil,Location,8.4
+37,Guayaquil,Free WiFi,8.8
+38,Guayaquil,Staff,8.9
+38,Guayaquil,Facilities,7.6
+38,Guayaquil,Cleanliness,8.3
+38,Guayaquil,Comfort,8.0
+38,Guayaquil,Value for money,7.8
+38,Guayaquil,Location,9.1
+38,Guayaquil,Free WiFi,7.8
+39,Guayaquil,Staff,9.1
+39,Guayaquil,Facilities,8.7
+39,Guayaquil,Cleanliness,9.1
+39,Guayaquil,Comfort,9.1
+39,Guayaquil,Value for money,8.3
+39,Guayaquil,Location,9.4
+39,Guayaquil,Free WiFi,8.8
+40,Guayaquil,Staff,8.9
+40,Guayaquil,Facilities,8.0
+40,Guayaquil,Cleanliness,8.6
+40,Guayaquil,Comfort,8.4
+40,Guayaquil,Value for money,8.3
+40,Guayaquil,Location,8.6
+40,Guayaquil,Free WiFi,8.7
+41,Guayaquil,Staff,8.3
+41,Guayaquil,Facilities,7.7
+41,Guayaquil,Cleanliness,8.2
+41,Guayaquil,Comfort,8.0
+41,Guayaquil,Value for money,7.8
+41,Guayaquil,Location,8.9
+41,Guayaquil,Free WiFi,7.2
+42,Guayaquil,Staff,8.9
+42,Guayaquil,Facilities,8.5
+42,Guayaquil,Cleanliness,8.9
+42,Guayaquil,Comfort,8.8
+42,Guayaquil,Value for money,8.2
+42,Guayaquil,Location,8.8
+42,Guayaquil,Free WiFi,7.9
+43,Guayaquil,Staff,8.7
+43,Guayaquil,Facilities,8.8
+43,Guayaquil,Cleanliness,9.1
+43,Guayaquil,Comfort,9.2
+43,Guayaquil,Value for money,8.3
+43,Guayaquil,Location,9.1
+43,Guayaquil,Free WiFi,8.4
+44,Guayaquil,Staff,8.8
+44,Guayaquil,Facilities,8.3
+44,Guayaquil,Cleanliness,8.8
+44,Guayaquil,Comfort,8.8
+44,Guayaquil,Value for money,8.5
+44,Guayaquil,Location,9.0
+44,Guayaquil,Free WiFi,9.4
+45,Guayaquil,Staff,8.6
+45,Guayaquil,Facilities,7.8
+45,Guayaquil,Cleanliness,8.3
+45,Guayaquil,Comfort,8.3
+45,Guayaquil,Value for money,7.8
+45,Guayaquil,Location,9.1
+45,Guayaquil,Free WiFi,8.2
+46,Guayaquil,Staff,8.4
+46,Guayaquil,Facilities,8.4
+46,Guayaquil,Cleanliness,8.7
+46,Guayaquil,Comfort,8.8
+46,Guayaquil,Value for money,8.6
+46,Guayaquil,Location,8.4
+46,Guayaquil,Free WiFi,8.7
+47,Guayaquil,Staff,8.7
+47,Guayaquil,Facilities,8.3
+47,Guayaquil,Cleanliness,8.7
+47,Guayaquil,Comfort,8.6
+47,Guayaquil,Value for money,8.2
+47,Guayaquil,Location,8.7
+47,Guayaquil,Free WiFi,7.9
+48,Guayaquil,"",""
+49,Guayaquil,Staff,9.3
+49,Guayaquil,Facilities,8.5
+49,Guayaquil,Cleanliness,8.7
+49,Guayaquil,Comfort,8.8
+49,Guayaquil,Value for money,8.6
+49,Guayaquil,Location,9.4
+49,Guayaquil,Free WiFi,8.8
+50,Guayaquil,Staff,8.9
+50,Guayaquil,Facilities,7.9
+50,Guayaquil,Cleanliness,8.1
+50,Guayaquil,Comfort,8.1
+50,Guayaquil,Value for money,8.2
+50,Guayaquil,Location,9.4
+50,Guayaquil,Free WiFi,8.5
+51,Guayaquil,Staff,8.0
+51,Guayaquil,Facilities,7.3
+51,Guayaquil,Cleanliness,7.9
+51,Guayaquil,Comfort,7.7
+51,Guayaquil,Value for money,7.4
+51,Guayaquil,Location,8.5
+51,Guayaquil,Free WiFi,7.1
+52,Guayaquil,Staff,8.7
+52,Guayaquil,Facilities,7.8
+52,Guayaquil,Cleanliness,8.1
+52,Guayaquil,Comfort,8.1
+52,Guayaquil,Value for money,8.1
+52,Guayaquil,Location,9.3
+52,Guayaquil,Free WiFi,7.9
+54,Guayaquil,Staff,9.3
+54,Guayaquil,Facilities,8.9
+54,Guayaquil,Cleanliness,9.3
+54,Guayaquil,Comfort,9.1
+54,Guayaquil,Value for money,8.8
+54,Guayaquil,Location,8.9
+54,Guayaquil,Free WiFi,8.8
+55,Guayaquil,Staff,9.3
+55,Guayaquil,Facilities,9.1
+55,Guayaquil,Cleanliness,9.3
+55,Guayaquil,Comfort,9.3
+55,Guayaquil,Value for money,8.5
+55,Guayaquil,Location,9.4
+55,Guayaquil,Free WiFi,8.6
+56,Guayaquil,Staff,8.9
+56,Guayaquil,Facilities,8.5
+56,Guayaquil,Cleanliness,8.8
+56,Guayaquil,Comfort,8.8
+56,Guayaquil,Value for money,8.2
+56,Guayaquil,Location,9.4
+56,Guayaquil,Free WiFi,8.8
+57,Guayaquil,Staff,8.9
+57,Guayaquil,Facilities,8.6
+57,Guayaquil,Cleanliness,9.0
+57,Guayaquil,Comfort,9.0
+57,Guayaquil,Value for money,8.4
+57,Guayaquil,Location,9.2
+57,Guayaquil,Free WiFi,8.6
+58,Guayaquil,Staff,9.3
+58,Guayaquil,Facilities,8.8
+58,Guayaquil,Cleanliness,9.1
+58,Guayaquil,Comfort,9.1
+58,Guayaquil,Value for money,8.6
+58,Guayaquil,Location,9.2
+58,Guayaquil,Free WiFi,9.1
+id,provincia,categoria,score
+59,Guayaquil,Staff,9.2
+59,Guayaquil,Facilities,9.1
+59,Guayaquil,Cleanliness,9.3
+59,Guayaquil,Comfort,9.3
+59,Guayaquil,Value for money,8.4
+59,Guayaquil,Location,9.4
+59,Guayaquil,Free WiFi,8.8
+60,Guayaquil,Staff,9.0
+60,Guayaquil,Facilities,8.4
+60,Guayaquil,Cleanliness,8.8
+60,Guayaquil,Comfort,8.8
+60,Guayaquil,Value for money,8.5
+60,Guayaquil,Location,8.5
+60,Guayaquil,Free WiFi,8.4
+61,Guayaquil,Staff,9.3
+61,Guayaquil,Facilities,9.1
+61,Guayaquil,Cleanliness,9.3
+61,Guayaquil,Comfort,9.4
+61,Guayaquil,Value for money,8.5
+61,Guayaquil,Location,9.5
+61,Guayaquil,Free WiFi,8.9
+62,Guayaquil,Staff,8.9
+62,Guayaquil,Facilities,8.4
+62,Guayaquil,Cleanliness,8.8
+62,Guayaquil,Comfort,8.5
+62,Guayaquil,Value for money,8.4
+62,Guayaquil,Location,8.4
+62,Guayaquil,Free WiFi,8.8
+63,Guayaquil,Staff,8.9
+63,Guayaquil,Facilities,7.6
+63,Guayaquil,Cleanliness,8.3
+63,Guayaquil,Comfort,8.0
+63,Guayaquil,Value for money,7.8
+63,Guayaquil,Location,9.1
+63,Guayaquil,Free WiFi,7.8
+64,Guayaquil,Staff,9.1
+64,Guayaquil,Facilities,8.7
+64,Guayaquil,Cleanliness,9.1
+64,Guayaquil,Comfort,9.1
+64,Guayaquil,Value for money,8.3
+64,Guayaquil,Location,9.4
+64,Guayaquil,Free WiFi,8.8
+65,Guayaquil,Staff,8.9
+65,Guayaquil,Facilities,8.0
+65,Guayaquil,Cleanliness,8.6
+65,Guayaquil,Comfort,8.4
+65,Guayaquil,Value for money,8.3
+65,Guayaquil,Location,8.6
+65,Guayaquil,Free WiFi,8.7
+66,Guayaquil,Staff,8.3
+66,Guayaquil,Facilities,7.7
+66,Guayaquil,Cleanliness,8.2
+66,Guayaquil,Comfort,8.0
+66,Guayaquil,Value for money,7.8
+66,Guayaquil,Location,8.9
+66,Guayaquil,Free WiFi,7.2
+67,Guayaquil,Staff,8.9
+67,Guayaquil,Facilities,8.5
+67,Guayaquil,Cleanliness,8.9
+67,Guayaquil,Comfort,8.8
+67,Guayaquil,Value for money,8.2
+67,Guayaquil,Location,8.8
+67,Guayaquil,Free WiFi,7.9
+68,Guayaquil,Staff,8.7
+68,Guayaquil,Facilities,8.8
+68,Guayaquil,Cleanliness,9.1
+68,Guayaquil,Comfort,9.2
+68,Guayaquil,Value for money,8.3
+68,Guayaquil,Location,9.1
+68,Guayaquil,Free WiFi,8.4
+69,Guayaquil,Staff,8.8
+69,Guayaquil,Facilities,8.3
+69,Guayaquil,Cleanliness,8.8
+69,Guayaquil,Comfort,8.8
+69,Guayaquil,Value for money,8.5
+69,Guayaquil,Location,9.0
+69,Guayaquil,Free WiFi,9.4
+70,Guayaquil,Staff,8.6
+70,Guayaquil,Facilities,7.8
+70,Guayaquil,Cleanliness,8.3
+70,Guayaquil,Comfort,8.3
+70,Guayaquil,Value for money,7.8
+70,Guayaquil,Location,9.1
+70,Guayaquil,Free WiFi,8.2
+71,Guayaquil,Staff,8.4
+71,Guayaquil,Facilities,8.4
+71,Guayaquil,Cleanliness,8.7
+71,Guayaquil,Comfort,8.8
+71,Guayaquil,Value for money,8.6
+71,Guayaquil,Location,8.4
+71,Guayaquil,Free WiFi,8.7
+72,Guayaquil,Staff,8.7
+72,Guayaquil,Facilities,8.3
+72,Guayaquil,Cleanliness,8.7
+72,Guayaquil,Comfort,8.6
+72,Guayaquil,Value for money,8.2
+72,Guayaquil,Location,8.7
+72,Guayaquil,Free WiFi,7.9
+73,Guayaquil,"",""
+74,Guayaquil,Staff,9.3
+74,Guayaquil,Facilities,8.5
+74,Guayaquil,Cleanliness,8.7
+74,Guayaquil,Comfort,8.8
+74,Guayaquil,Value for money,8.6
+74,Guayaquil,Location,9.4
+74,Guayaquil,Free WiFi,8.8
+75,Guayaquil,Staff,8.9
+75,Guayaquil,Facilities,7.9
+75,Guayaquil,Cleanliness,8.1
+75,Guayaquil,Comfort,8.1
+75,Guayaquil,Value for money,8.2
+75,Guayaquil,Location,9.4
+75,Guayaquil,Free WiFi,8.5
